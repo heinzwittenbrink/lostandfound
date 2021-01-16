@@ -1,0 +1,16 @@
+---
+title: "Auf dem Weg nach Wien"
+date: "2008-05-15"
+categories: 
+  - "allgemein"
+tags: 
+  - "politik"
+---
+
+Alexandra Nussbaumer von der ÖVP hat einige Blogger zur [Rede zur Lage der Nation](http://www.oevp.at/rede08/index.aspx?pageid=26790 "Live-Blog der ÖVP") des Parteivorsitzenden eingeladen. Ausser mir folgen wohl nur [Georg](http://www.rigardi.org "rigardi - politisches Blog von Georg Pichler") und [Tom](http://zurpolitik.com/ "Zur Politik") der Einladung.
+
+Ich glaube, dass einige Bloggerkolleginnen und -kollegen nicht missbraucht werden möchten, und dass sie es für überflüssig halten von einem Ereignis zu berichten, dass schon von den Veranstaltern selbst ins Web gestreamt und breit kommuniziert wird. Warum fahre ich trotzdem hin? Ein Grund ist, dass [Michi Mojzis](http://mojzis.oevp.at/blogs/mojzis/ "Weblog von Michaela Mojzis, Bundesgeschäftsführerin der Östereichischen Volkspartei") und Alexandra Nussbaumer von der ÖVP Ende Mai zu unserem [PolitCamp](http:www.barcamp.at/politcamp_graz "Seite des PolitCamp auf dem österreichischen Barcamp-Wiki") nach Graz kommen werden. Ich fände es unhöflich, mich nicht bei ihnen sehen zu lassen. Ich wäre aber auch sonst gefahren — weil ich es interessant finde, diese Partei und ihre Kommunikation zu verfolgen. Für mich ist es das dritte Großevent der ÖVP, dass ich beobachten kann, und ich hoffe, dass ich durch die Kontinuität einiges genauer wahrnehme.
+
+Ich werde diesmal nicht versuchen, live mitzubloggen, weil das wahrscheinlich niemanden interessiert. (Ich werde auch nicht durch Parteitags-Tweets meine Twitter-Follower verschrecken.) Ich werde mich auf die Themen konzentrieren, die mich besonders interessieren: Informationstechnologie, Datenschutz und Bürgerrechte, Bildungspolitik. Außerdem interessiert mich jedes Anzeichen dafür, dass sich die interne Kommunikation der ÖVP verändert: Gibt es Hinweise darauf, dass sich die Partei selbst als ein soziales Netz versteht? Etwas spekulativer formuliert: Kann sich eine Partei wie die ÖVP von einem zentralistischen, hierarchischen Modell der Organisation und der Politik zu einem dezentralen, wissensorientierten Modell bewegen?
+
+Die Kommunikationsleute der ÖVP laden Blogger ein, weil sie sich für die _neue Medien_ jenseits der Broadcast-Medien interessieren. Die neuen Medien sind aber — professoral formuliert, sorry! — gar nicht vor allem Medien, sondern neue Kommunikations- und Organisationsformen. Kleine und große Gruppen von Menschen können sich vernetzen, kommunizieren und Ziele verfolgen, ohne sich an starre und ausgrenzende Organisationen zu binden. In Mitteleuropa ist diese neue Welt der Organisation und Kommunikation noch im Embryonalzustand; Amerika ist schon weiter, wie die Obama-Kampagne zeigt. Die politischen Parteien haben aber auch in Europa das Rentenalter erreicht, um im Bild zu bleiben. Können, wollen sie sich transformieren, einen neuen Aggregatzustand annehmen? Ist es z.B. denkbar, dass sie auf ihre Exklusivität verzichten? Dass sie die parteipolitisch eingefärbten spätabsolutistischen Verwaltungs- und Verteilungsapparate demontieren? Oder werden sie langsam aber sicher von neuen Formen der Organisation außerhalb der Parteien abgelöst werden? Mit dieser Frage besuche ich das ÖVP-Event heute; ich hoffe, dass ich sie auch einigen in der Partei persönlich stellen kann.

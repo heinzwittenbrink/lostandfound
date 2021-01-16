@@ -1,0 +1,25 @@
+---
+title: "Was heisst \"radikale Ökologiebewegung\"?"
+date: "2020-11-23"
+categories: 
+  - "gesellschaft-und-oeffentlichkeiten"
+tags: 
+  - "degrowth"
+  - "klimanotstand"
+---
+
+In der letzten Woche habe ich mich mit der [2\. Forderung](https://xrebellion.at/ueber-uns/unsere-forderungen/#Act-Now "Unsere Forderungen - Extinction Rebellion Österreich") von Extinction Rebellion (_Act Now!_) beschäftigt. Anlass war ein Gespräch mit [Gottfried Kirchengast](https://homepage.uni-graz.at/de/gottfried.kirchengast/ "Univ.-Prof. Dr. Gottfried Kirchengast - Kirchengast, Gottfried, Univ.-Prof. Mag. Dr.rer.nat."), das wir für den XR-Podcast geführt haben. Ich habe vor allem in [Kapitel 2](https://www.ipcc.ch/sr15/chapter/chapter-2/ "Chapter 2 — Global Warming of 1.5 ºC") des _IPCC-Sonderberichts Global Warming of 1.5 ºC_ von 2018 gelesen, in dem verschiedene Pfade zu einer Begrenzung der Erderhitzung beschrieben werden.
+
+Ich denke darüber nach, was eine Bewegung wie Extinction Rebellion, einen Teil der radikalen Klima- und Ökologiebewegung, von den vielen Ansätzen unterscheidet, die Klimakrise vorsichtiger zu bekämpfen. Diese Ansätze kann man als _konservativ_ bezeichnen.
+
+## Soziale oder technische Erneuerung?
+
+Der Unterschied betrifft nicht die naturwissenschaftlichen Fakten. Ich glaube nicht, dass man etwa der deutschen Bundeskanzlerin vorwerfen kann, dass sie die Fakten nicht versteht. Der Unterschied betrifft die Einschätzung der Gesellschaft und der Notwendigkeit und Fähigkeit, die Gesellschaft zu verändern. Die radikale Ökologiebewegung geht davon aus, dass sich Wirtschaft und Gesellschaft verändern müssen, um die Klimakrise zu bekämpfen, und dass sie sich verändern lassen. (Darin, wie sie diese Veränderungsmöglichkeiten einschätzen, sind gerade Naturwissenschaftler oft konservativ—vielleicht, weil sie davon ausgehen, dass in der _Gesellschaft_ in ähnlicher Weise unveränderliche Gesetzmäßigkeiten herrschen wie in der Natur.) Man kann vielleicht auch sagen, dass eine konservative Umweltpolitik CO2- und Ressourcenverbrauch vor allem technologisch ersetzen will, während die radikale Ökologiebewegung Technik nicht als selbständige Komponente von Wirtschaft und Gesellschaft versteht.
+
+## Weniger Nachfrage statt neuer Angebote
+
+Mit diesem Unterschied zusammen hängt die Frage, ob man die Lösungen für die Klimakrise vor allem auf der Angebots- oder auf der Nachfrageseite sieht. Die konservativen Lösungen für die Klimakrise gehen davon aus, dass eine klimaneutrale Wirtschaft im wesentlichen ähnliche Dienstleistungen und Waren, und wenigsten im selben Umfang, produziert wie die vorhandene, auf der Ausbeutung fossiler Energie, anderer Rohstoffe und physischer und psychischer menschlicher Arbeitskraft basierende Wirtschaft. Die radikale Ökologiebewegung erstrebt Veränderungen auf der Nachfrageseite. Dabei geht es ihr einerseits um eine andere und in der Summe niedrigere Nachfrage, andererseits um die Beseitigung sozialer Ungerechtigkeiten und der Vernichtung von Gemeingut durch kleine Minderheiten wie die der [ökonomisch begünstigen Vielflieger](https://www.handelszeitung.ch/panorama/luftfahrt-1-prozent-der-menschen-verursacht-die-halfte-der-emissionen "Luftfahrt: 1 Prozent der Menschen verursacht die Hälfte der Emissionen - HZ"). Die radikale Ökologiebewegung greift dabei auch die Machtverhältnisse an, die mit der vorhandenen Wirtschaft verbunden sind—wobei man die Machtverhältnisse z.T. wie im traditionellen Marxismus auf die ökonomischen Verhältnisse zurückführt, z.T. aber auch, vielleicht eher im Sinne der anarchistischen und anderer sozialrevolutionärer Traditionen, ökonomische Macht als Komponente von nicht auf sie reduzierbaren Herrschaftsverhältnissen versteht.
+
+## Funds statt Stocks und die Regulierung des Markts
+
+Wenn man sich klar macht, in welchem Ausmaß das vorhandene Wirtschaftssystem darauf aufbaut, die Natur auszubeuten, dann erscheint es sehr naiv anzunehmen, dass sich diese Art von Ausbeutung durch eine mit der Natur verträglichere ersetzen lässt. Das mag überall da möglich sein, wo man verhältnismäßig einfach [Stocks durch Funds](http://www.envjustice.org/2012/12/funds-and-stocks/ "Funds and stocks") ersetzen kann, also z.B. fossile Brennstoffe durch Sonnenenergie. Das ist aber grundsätzlich da nicht möglich, wo irrversibel abgebaut und ausgebeutet wird. Umgekehrt besteht eine radikale Lösung eben darin, wie in den [Doughnut Economics](https://www.kateraworth.com/doughnut/ "Doughnut | Kate Raworth") weitestgehend Stocks durch Funds zu ersetzen, also die Ausbeutung von vorhandenen Ressourcen durch einen Umgang mit ihnen zu abzulösen, der sie ersetzt, ihre Regeneration ermöglicht. Ein solcher Umgang mit Ressourcen widerspricht marktwirtschaftlichen Prinzipien, wenn diese darauf beruhen, dass sich die Akteure durchsetzen, der die vorhandenen Ressourcen am effizientesten ausbeuten und damit ihren ökonomischen Vorteil verfolgen. Konsequente Regulierung—nicht unbedingt Abschaffung—von Märkten im Sinne eines regenerativen Umgangs mit natürlichen und menschlichen Ressourcen ist deshalb eine zentrale Forderung der radikalen Ökologiebewegung.

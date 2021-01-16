@@ -1,0 +1,18 @@
+---
+title: "FH Joanneum: Bitte nicht noch mehr Politik!"
+date: "2009-02-06"
+tags: 
+  - "fh-joanneum"
+---
+
+Der Kleinen Zeitung — der steirischen Regionalzeitung — können meine Kollegen und ich entnehmen, dass die steirische Landesregierung am Montag darüber entscheiden wird, wie die Stelle des Rektors der FH Joanneum ausgeschrieben wird: [Vollaths Fachhochschul-Coup](http://www.kleinezeitung.at/steiermark/graz/graz/1570230/index.do?& "Vollaths Fachhochschul-Coup > Kleine Zeitung"). Uneingeweihte können den Artikel nicht verstehen: Im Kern geht es wohl darum, ob die nächste wissenschaftliche Geschäftsführerin wieder Vorsitzende des FH-Kollegiums sein (und damit auch vom Kollegium mitgewählt) wird. Offenbar hält die zuständige Bildungslandesrätin Vollath an dem in Österreich einzigartigen Modell der Personalunion von Geschäftsführung und Kollegiumsvorsitz fest, während ihre Kollegin Edlinger-Ploder nach einem neuen Modell sucht. Frau Vollath gehört der SPÖ an, Frau Edlinger-Ploder der ÖVP; sie war in der letzten Legislaturperiode für die FH verantwortlich. Eine Proporzvorschrift kettet in der Steiermark beide Parteien in der Regierung aneinander. Tatsächlich belauern sie sich, und zur Zeit (wie eigentlich immer) beziehen sie Stellung für den nächsten Landtagswahlkampf. Am Montag dürfte auch darüber entschieden werden, ob und wie die Fachhochschule Joanneum in diesen Landtagswahlkampf hineingezogen wird.
+
+Ich bin als einer der Vertreter der Lehrenden der FH Mitglied unseres Kollegiums, und ich denke wenigstens wöchentlich darüber nach, dieses Gremium zu verlassen. Der Bericht in der Kleinen Zeitung bringt mich diesem Schritt ein Stückchen näher. Zur zukünftigen Führungsstruktur der FH hat das Kollegium eine Stellungnahme formuliert; welche Rolle sie für die Entscheidung der Landesregierung spielt, wissen wir nicht. In der schlechten spätabsolutistischen Tradition der Steiermark werden Entscheidungen nicht offen diskutiert, bevor sie getroffen werden. Es gibt wenige Wissende und einige Personen in deren Umkreis, denen Indiskretionen zugeworfen werden. Auf eine solche Indiskretion dürfte auch der Artikel in der Kleinen Zeitung zurückgehen, der offenbar darauf abzielt, die Bildungslandesrätin zu schwächen. Der Einfluss des FH-Kollegiums, das für die Qualität von Lehre und Forschung verantwortlich ist, ist extrem gering. Noch komplizierter werden die Machtspiele um die FH durch einen politbüroartig agierenden Aufsichtsrat, gegen den sich, wie aus dem Artikel in der Kleinen hervorgeht, auch die vorgesetzte Landesrätin nicht immer durchsetzen kann, und durch die interne FH-Bürokratie, die in der Vergangenheit FH-Geschäftsführungen gefährlich geworden ist und im Gegensatz zu den Studiengängen nie evaluiert wird.
+
+Die FH Joanneum hat einen guten Ruf; die Arbeitsbedingen sind nach wie vor besser als an vielen Universitätsinstituten. Ihren Ruf und ihre Qualität hat sie in einer Zeit erworben, in der sie relativ klein und überschaubar war und unbürokratisch geführt wurde — von Personen, die akademische Ansprüche hatten, auch wenn die FH als GmbH organisiert war. Wenn wir unsere Position auf dem Bildungsmarkt halten oder verbessern wollen, brauchen wir dringend und schnell:
+
+- eine innovations- und sachorientierte Führung mit Handlungskompetenzen;
+- transparente, entbürokratisierte Entscheidungsstrukturen, und vor allem eine
+- konsequente Entpolitisierung der Hochschule.
+
+Wichtig wäre außerdem, dass tatsächlich ergebnisoffene und öffentliche interne und externe Diskussionen über die Entwicklung der FH und ihrer Studiengänge geführt werden. Alles intern und extern vorhanden Wissen muss genutzt werden, wenn die FH ihre Aufgaben als Wissens- und Innovationszentrum für die Region und ihre Wirtschaft erfüllen soll.

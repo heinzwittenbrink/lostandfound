@@ -1,0 +1,24 @@
+---
+title: "Welche Gruppen sind \"blog-affin\"?"
+date: "2009-03-03"
+categories: 
+  - "allgemein"
+tags: 
+  - "blogging"
+---
+
+Heute sitze ich den ganzen Tag im Zug und kann etwas _nachschreiben_: In den letzten beiden Wochen bin ich leider kaum zum Schreiben gekommen. Noch immer schaffe ich es nicht, unangestrengt und nebenbei zu schreiben. Es dauert zu lange; deshalb tröpfeln die Einträge nur.
+
+Gestern habe ich vor einem [Graduiertenkolleg](http://www.uni-rostock.de/andere/GRK1242/ "Graduiertenkolleg Kulturkontakt und Wissenschaftsdiskurs") in Rostock einen Vortrag über Wissenschaftsblogs gehalten; die Einladung verdanke ich meinem Freund [Klaus Hock](http://www.theologie.uni-rostock.de/hock.html "Universität Rostock: Klaus Hock"), der in Rostock Religionswissenschaft unterrichtet. Ich hatte mich mit wissenschaftlichen Blogs vorher nicht beschäftigt; mein Vortrag (Präsentation [hier](http://www.slideshare.net/heinzwittenbrink/science-blogs "Slideshare: Science Blogs")), ist eine sehr allgemeine Einführung in das Bloggen für Wissenschaftler. Ich wollte erkären, was Blogs sind und warum es für Wissenschaftler sinnvoll sein kann zu bloggen. Ich habe mich nicht intensiv damit beschäftigt, welche Typen von wissenschaftlichen Blogs es gibt. Ich kann mir aber gut vorstellen, dass ethographische Analysen von akademischen Blogs sinnvoll wären — als Teil der Wissenschaftsforschung wie der Internetforschung.
+
+Ich hielt meinen Vortrag im Rahmen eines [Workshops über Wissenschaft und Kulturkontakt](http://www.uni-rostock.de/andere/GRK1242/Seiten/Aktuelles/WorkshopFebruar09.html "Programm des Workshhops 'Wissenschaft und Kulturkontakt'"); Zugehört haben die Doktoranden des Kollegs, ihre Professoren und die übrigen eingeladenen Referenten. Wenn ich es richtig sehe; war den meisten das Bloggen ziemlich fremd. Jedenfalls haben nicht viele aufgezeigt, als ich fragte, wer Blogs liest oder selbst bloggt. Twitter kannten höchstens zwei oder drei. Bloggen, soziale Medien, webgestützte Publikationsformen — das sind immer noch Themen für kleine Minderheiten; nicht einmal für handverlesene Doktoranden in geisteswissenschaftlichen Fächern gehören sie zum Alltag.
+
+Woran könnte das liegen? Vielleicht muss man Blogs weniger als ein Werkzeug verstehen, das bereitliegt und von jedem mit unterschiedlichen Zielen verwendet werden kann, sondern als Kommunikationsform innerhalb bestimmter sozialer Gruppen, wie etwa der _Web 2.0-Szene_ — Knowledge Workern, die alltäglich und meist beruflich mit dem Web zu tun haben. Für diese Gruppe sind Blogs (nicht nur Blogs) konstitutiv, so wie für akademische Gruppen Dissertationen und Papers konstitutiv sind. Blog zu lesen oder zu schreiben ist eine soziale Praxis, die in andere Praktiken eingebettet ist: Wer Blogs liest, verwendet auch Feedreader, besucht BarCamps und ähnliche Veranstaltungen und kommuniziert auch über Tools wie Twitter und soziale Netze mit Angehörigen derselben Gruppe.
+
+Sicher ist die _Web 2.0-Szene_ nicht die einzige Gruppe, die mit Blogs kommuniziert. Nach meinem Vortrag hat mich eine Teilnehmerin darauf aufmerksam gemacht, dass ich die zahlreichen Blogs zu praktischen Themen überhaupt nicht erwähnt habe. Dass sich die Gruppen, die sich mit Weblogs über Themen wie Kochen und Gartenpflege verständigen, von den Bloggern, die über Web-Themen kommunizieren, deutlich unterscheiden, macht es noch schwieriger zu erklären, warum Blogs von bestimmten Kollektiven verwendet werden und von anderen nicht.
+
+Blogs in der Lehre zu verwenden ist vielleicht auch vor allem eine Initiierung in eine bestimmte soziale Gruppe. Wenn Medien oder Kommunikationsformen für Gruppen konstitutiv sind, dann ist diese Gruppe schlicht nicht identisch mit den Gruppen, zu deren Kommunikationsmitteln wissenschaftlische Schreibformen gehören. Bloggende Akademiker wie [Thomas Pleil](http://thomaspleil.wordpress.com/ "Thomas Pleils Blog") und [Jan Schmidt](http://www.schmidtmitdete.de/ "Jan Schmidts Blog") gehören zu beiden Universen; vielleicht ist die Frage interessant, in welchem Verhältnis in ihren Blogs die Regeln der einen Gruppe zu denen der anderen stehen. Können Blogposts zugleich wissenschaftliche Publikationen sein? Welche Spannungsfelder bauen sich zwischen _Bloggen_ und _wissenschaftlichem Publizieren_ auf? Und: Lebt nicht jeder interessante Diskurs von solchen Spannungsfeldern?
+
+(Ich weiß, dass ich mich hier sehr unpräzise und eben nicht wissenschaftlich ausdrücke. Weiterverfolgen würde ich diese Gedanken gerne mit Methoden der Akteur-Netzwerk-Theorie. Empirische Untersuchungen zu dieser Thematik lassen sich vielleicht in Verbindung mit den Umterrichten sozialer Medien durchführen. Wann und warum gelingt es, Studenten in das Bloggen einzuführen?)
+
+(**Anmerkung:** Ich komme erst heute, am 3.3., dazu, den Beitrag zu publizieren.)

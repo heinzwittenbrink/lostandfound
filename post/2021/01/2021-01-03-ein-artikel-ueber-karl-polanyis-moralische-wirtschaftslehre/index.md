@@ -1,0 +1,30 @@
+---
+title: "Ein Artikel über Karl Polanyis \"Moralische Wirtschaftslehre\""
+date: "2021-01-03"
+categories: 
+  - "gesellschaft-und-oeffentlichkeiten"
+tags: 
+  - "anarchismus"
+  - "karl-polanyi"
+  - "soziologie"
+---
+
+Gestern habe ich einen guten Überblicksartikel von [Jeremy Adelman](https://history.princeton.edu/people/jeremy-adelman "Jeremy Adelman | Department of History") über Karl Polany gelesen, eigentlich auf der Suche nach Querverbindungen zwischen [James Scott](https://politicalscience.yale.edu/people/james-scott "James Scott | Department of Political Science") und Polanyi: [Polanyi, the Failed Prophet of Moral Economics](http://bostonreview.net/class-inequality/jeremy-adelman-polanyi-failed-prophet-moral-economics "Polanyi, the Failed Prophet of Moral Economics | Boston Review").
+
+Ich entdecke gerade, dass es einen Strang wirtschaftsanthropologischen Denkens gibt, das eine hohe Affinität zum Anarchismus hat und sich deutlich von der im weitesten Sinn marxistischen Tradition der Kapitalismuskritik unterscheidet. Im Sommer [bin ich auf David Graeber gestoßen](https://wittenbrink.net/lostandfound/nachdenken-ueber-david-graeber-und-den-anarchismus/ "Nachdenken über David Graeber und den Anarchismus – Lost and Found"). Jetzt habe ich, angeregt durch eine [französische Radiosendung über Deleuze und Guattari](https://www.franceculture.fr/emissions/les-chemins-de-la-philosophie/les-chemins-de-la-philosophie-emission-du-mercredi-30-decembre-2020 "Gilles Deleuze et Félix Guattari : "Faites rhizome et pas racine !" - Ép. 3/4 - Végétal") mit [Igor Krtolica](https://www.cairn.info/resultats_recherche.php?searchTerm=Igor+Krtolica#xd_co_f=ZWI4MGNlMjctNjQyNi00ZjIxLWIzNmItZTIyZTlhMWQ0ZGYx~ "Résultats de recherche | Cairn.info"), realisiert, dass eine oder mehrere Linien von [Marcel Mauss](https://www.univie.ac.at/ksa/elearning/cp/oeku/theogrundlagen/theogrundlagen-117.html "theogrundlagen - Marcel Mauss") und Polanyi über [Sahlins](https://www.univie.ac.at/ksa/elearning/cp/oeku/theogrundlagen/theogrundlagen-282.html "theogrundlagen - Marshall Sahlins"), [Haudricourt](https://www.vjf.cnrs.fr/caghaudricourt/agh.html "Le Centre André-Georges Haudricourt") bis zu [Clastres](https://www.freitag.de/autoren/der-freitag/heimlicher-klassiker "Ethnologie ǀ Heimlicher Klassiker — der Freitag") und Scott verlaufen.
+
+In dem Artikel wird Polanyis Kritik am Kapitalismus (wobei Polanyi wohl kaum ein Anarchist war) als _moralisch_ bezeichnet, im Gegensatz zu der nationalökonomischen marxistischen Kritik. Polanyi sieht die kapitalistischen Märkte nicht als Resultat von zwingenden Entwicklungen oder der Entdeckung wirtschaftlicher Gesetze, sondern als soziale Konstrukte, die gegen andere Interessen, vor allem gegen die Interesse der Armen, durchgesetzt wurden. Die Kritik an diesen Märkten beruft sich dementsprechend nicht auf eine historische Logik, sondern sie ist ethisch begründet und geht von der Kontingenz und Veränderbarkeit aller Institutionen aus. Der Staat wird nicht als sekundär gegenüber der Wirtschaft verstanden, sondern als von ihr untrennbar, weil die Märkte selbst politisch im Interesse von Machtgruppen etabliert wurden und aufrechterhalten werden. Eine linke Politik muss entsprechende auf sofortige Änderung der Spielregeln setzen, gegen die nur scheinbar feststehenden Regeln der Märkte.
+
+Adelman wirft Polanyi Illusionen vor. Er habe die Widerstandskraft der Märkte übersehen und die Entwicklung in den westlichen Ländern nach dem Ende des zweiten Weltkriegs nicht verstanden. Er habe Fordismus und Massenkonsum ebenso ignoriert wie die keynesianische Wirtschaftspolitik. Vor 1945 sei er in seinem pauschalen antiliberalen Denken blind für die Besonderheiten der Entwicklungen in den einzelnen europäischen Ländern, vor allem unter dem Nationalsozialismus gewesen.
+
+Einige der Äußerungen Polanyis, die in dem Artikel kritisch zitiert werden, wirken heute wieder aktuell, so Bemerkungen zum Unverständnis der Liberalen für die antiliberalen, rechten Tendenzen in den westlichen Gesellschaften.
+
+> “To the stupefaction of the vast majority of contemporaries, unsuspected forces of charismatic leadership and autarchist isolationism broke forth and fused societies in new forms.” “Awareness of the essential nature of the problems of politics sank to an unprecedented low point”
+
+Wenn ich Polanyi richtig verstehe, dann warf er den Liberalen seiner Zeit vor, das Versagen der Märkte nicht zu verstehen bzw. ideologisch zu überdecken und deshalb blind dafür zu sein, dass die radikale Rechte die Unzufriedenheit der Opfer der Märkte ausnutzte. Das liberale Denken begreift den destruktiven Charakter der Märkte nicht (was nicht heisst, dass sie nur destruktiv sind) und nimmt deshalb auch die rechten Angriffe auf die Märkte nicht ernst.
+
+Für mich hat die Kapitalismuskritik Polanyis, so wie sie hier wiedergegeben wird, angesichts der ökologischen Zerstörungen eine viel größere Aktualität als sie ihm in diesem Artikel zugesprochen wird. Die Effizienz der Märkte kann so groß erscheinen, und als im Rahmen einer marktwirtschaftlichen Ordnung so gut reparierbar, dass die positiven wirtschaftlichen Folgen für die Mehrheit die negativen Auswirkungen überwiegen. Aber gerade diese Effizienz erweist sich ökologisch oder bioökonomisch als katastrophal. Die liberalen Rezepte können vielleicht für Teile von reichen Gesellschaften Wohlstand sichern, aber sie können nicht auch die Aufgabe ihrer eigenen Regulation übernehmen, weil sich die ökologischen Folgen nur ethisch bewerten lassen und sich diese ethische Bewertung nicht in eine wirtschaftliche übersetzen lässt. Die Kritik an dem moralischen Ansatz von Polanyi lässt diesen als naiv erscheinen. Aber moralisch ist hier die Außenperspektive auf die Märkte, die soziale und ökologische, eben nicht nur wirtschaftliche, Bewertung der Märkte selbst.
+
+## Nachweis
+
+Adelman, J. (2017, Mai 30). Polanyi, the Failed Prophet of Moral Economics. Boston Review. [http://bostonreview.net/class-inequality/jeremy-adelman-polanyi-failed-prophet-moral-economics](http://bostonreview.net/class-inequality/jeremy-adelman-polanyi-failed-prophet-moral-economics)

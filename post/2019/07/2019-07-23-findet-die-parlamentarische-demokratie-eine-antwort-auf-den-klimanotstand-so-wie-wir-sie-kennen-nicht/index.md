@@ -1,0 +1,26 @@
+---
+title: "Findet die parlamentarische Demokratie eine Antwort auf den Klimanotstand? So, wie wir sie kennen, nicht."
+date: "2019-07-23"
+categories: 
+  - "politik"
+tags: 
+  - "klimanotstand"
+---
+
+Vor zwei Tagen hat die zweite große Hitzewelle dieses Sommers begonnen. Vorausgesagt werden Temperaturen bis zu 40° Celsius. Wer nur oberflächlich die Nachrichten verfolgt, hat in den letzten Wochen erfahren, dass [das Ende der Arktis, wie wir sie kennen, kaum aufzuhalten ist](https://www.solarify.eu/2019/07/04/959-the-guardian-das-ende-der-arktis-wie-wir-sie-kennen/2/), dass mit dem Abschmelzen eines großen Eisgebiets der Antarktis [möglicherweise der erste globale Klima-Kipp-Punkt erreicht ist](https://idw-online.de/de/news717377), dass [1.5° Temperaturerhöhung den größten Teil der existierenden Korallenriffe bedrohen](https://www.spektrum.de/news/klimawandel-ist-das-sterben-der-korallen-noch-aufzuhalten/1652050) und dass [der brasilianische Regenwald noch schneller abgeholzt wird als bisher](https://m.spiegel.de/wissenschaft/natur/brasilien-rekord-abholzung-im-regenwald-hoechster-wert-seit-drei-jahren-a-1275652.html). Wenn mein Enkel Levi, der im letzten Jahr geboren wurde, 80 Jahre sein wird, wird es einige der eindrucksvollsten und im Erdsystem wichtigsten Zonen dieses Planeten wohl nicht mehr geben. Vorstellungen davon, was diese Zerstörungen in den übrigen Gebieten der Erde auslösen können, finde man in der dystopischen Literatur.
+
+Joachim Sucker hat vor zwei Wochen auf ein Posting von mir geantwortet:
+
+https://twitter.com/Joachim\_Sucker/status/1149617383981477888?s=20
+
+Angeschlossen hat sich eine Debatte, bei der Martin Schimak Sucker und mit entgegnete:
+
+https://twitter.com/martinschimak/status/1150264409580691457?s=20
+
+Ich bin kein Gegner der parlamentarischen Demokratie. Trotzdem habe ich Martin Schimak in diesem Thread nicht zugestimmt. Ich kenne, außer vielleicht [Costa Rica](https://www.theguardian.com/world/2019/feb/25/costa-rica-plan-decarbonize-2050-climate-change-fight), kein Beispiel dafür, dass eine parlamentarische Demokratie mit dem Klimanotstand adäquat umgeht, ihn also als einen Notstand behandelt. Das würde bedeuten, dass man das gesamte staatliche Handeln auf diesen Notstand konzentriert, wie es während oder nach einem Krieg der Fall ist. Der Klimanotstand stellt die Folgen der bekannten Kriege in den Schatten. Trotzdem behandeln ihn fast alle Demokratien als eine nachgeordnete Frage. Selbst die bescheidenen Maßnahmen, die schon eingeleitet wurden, können schnell scheitern wie die Ökosteuer Macrons an den Gelben Westen. Hinter vielen Stellungnahmen von Politikern, die es besser wissen dürften, erkennt man die Angst davor, den Wählern und vor allem der Wirtschaft die Wahrheit zu sagen, so etwa in den vorsichtigen Versuchen von [Annegret Kamp-Karrenbauer](https://www.zeit.de/2019/26/klimapolitik-verantwortung-generationen-klimawandel-konsumverhalten) und [Ursula Von der Leyen](https://www.finanznachrichten.de/nachrichten-2019-07/47204567-von-der-leyen-kuendigt-neuen-aktionsplan-fuer-die-kreislaufwirtschaft-an-597.htm), für die Zukunft eine Kreislauf-Wirtschaft anzukündigen.
+
+Ich glaube, dass das damit zusammenhängt, dass die wichtigsten Betroffenen der Klimakrise parlamentarisch nicht vertreten sind. Das gilt für die zukünftigen Generationen und es gilt für Menschen auf anderen Kontinenten, denen wir mit jedem Liter Benzin, den wir verbrauchen, ihr ohnehin geringes verbleibendes CO2-Budget weiter beschneiden. Es gilt vor allem für die nichtmenschlichen Akteure, die wir als Partner begreifen müssen statt als neutrales Material—für die _Natur_ im weitesten Sinn. Eine parlamentarische Demokratie ist auf Interessenausgleich unter den in einem Gebiet lebenden Menschen ausgerichtet, aber nicht darauf, noch nicht Geborene, Menschen auf anderen Kontinenten oder nichtmenschlichen Wesen zu vertreten.
+
+Ich glaube nicht, dass eine Ökodiktatur eine bessere Alternative zur parlamentarischen Demokratie wäre. Die autoritären Regime ignorieren die Planetary Boundaries meist noch hemmungslose als die Demokratien. Es ist auch kein Zufall, das viele von ihnen direkt von der Extraktion fossiler Energieträger abhängen. Ich glaube eher, dass parlamentarische Demokratien eine strukturelle Selbstbeschränkung brauchen, um mit der Klimakrise umzugehen. Sie müssen begrenzen, was die Menschen entscheiden können, die gegenwärtig in einem Gebiet leben. Es gibt Beispiele dafür, das solche Begrenzungen funktionieren. Die wichtigsten sind der Markt und das Rechtswesen und für sie bestimmende Institutionen wie das Bankwesen bis hin zu Nationalbanken und Gerichte bis hin zu Verfassungsgerichten. Aber auch internationale Abkommen begrenzen die Souveränität von Parlamenten und werden trotzdem von ihnen akzeptiert—bisher besonders dann, wenn sie wie bei CETA Wirtschaftsinteressen ökologischen Gesichtspunkten überordnen.
+
+Angela Merkel hat einmal von einer [marktkonformen Demokratie](https://www.nachdenkseiten.de/?p=10611) gesprochen. Die klingt angesichts der globalen Erhitzung noch grotesker als damals. Wichtiger wäre, über eine _klimakonforme Demokratie_ nachzudenken und darüber, wer die parlamentarischen Entscheidungsprozesse entsprechend steuern und begrenzten könnte. Vielleicht hätten dabei Institutionen wie der Weltklimarat eine Schlüsselrolle.

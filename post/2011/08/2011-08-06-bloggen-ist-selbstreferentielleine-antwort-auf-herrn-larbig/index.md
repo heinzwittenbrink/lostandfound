@@ -1,0 +1,22 @@
+---
+title: "Bloggen ist selbstreferentiell—eine Antwort auf Herrn Larbig"
+date: "2011-08-06"
+categories: 
+  - "allgemein"
+tags: 
+  - "blogging"
+---
+
+Torsten Larbig greift [in einem langen Post](http://herrlarbig.de/2011/08/03/perspektiven-fur-blog-debatten-aktuelle-entwicklungen-im-netz/ "herrlarbig.de » Blog Archiv » Perspektiven für Blog-Debatten: Aktuelle Entwicklungen im Netz") kritisch und auch etwas elegisch die immerwährende Blogger-Debatte über das Bloggen auf. Einer der Schwachpunkte aus seiner Sicht: Die deutschen Blogger beschäftigten sich zu sehr mit sich selbst, sie schrieben zu selbstreferentiell:
+
+> Daran leider kranken meines Erachtens übrigens „Blog-Debatten“ von Anfang an, genau genommen seit ein paar Blogger das Netz erobert haben und im Prinzip die Meinung vertraten, dass Bloggen letztlich nichts anderes bedeute, als sich bloggend mit dem Netz (also im wesentlichen mit sich selbst) zu beschäftigen und „das Netz“ ins Zentrum zu stellen. Wer sich mit anderen Inhalten befasste, wurde und wird weitgehend von „echten Bloggern“ nur dann beachtet, wenn man die gleichen Themen hat, sich also die gleichen Begrenzungen auferlegt.
+
+Die meisten Bloggerinnen und Blogger, die ich lese—hier in Österreich z.B. [Jana Herwig](http://digiom.wordpress.com/ "digiom. studienblog über das leben in und mit digitalen onlinemedien"), [Luca Hammer](http://www.2-blog.net/ "Luca Hammer") und [Georg Holzer](http://www.georgholzer.at/ "Georg Holzer — Technik, Web & Netzkultur"), in Deutschland [Stefan Niggemeier](http://www.stefan-niggemeier.de/blog/ "Stefan Niggemeier"), [Thomas Knüwer](http://www.indiskretionehrensache.de/ "Indiskretion Ehrensache — Das Blog von Thomas Knüwer"), [Robert Basic](http://www.robertbasic.de/ "basic")—haben durchaus etwas zu sagen. Sie schreiben über etwas, wenn sie schreiben. Aber sie schreiben auch über das Bloggen, die Blogospäre und die digitale Öffentlichkeit, in der sie sich bewegen. Das hängt kaum damit zusammen, dass sie sich nicht für andere Themen interessieren.
+
+Ich glaube, dass die Selbstreferenzialität bei diesen und anderen Blogs nicht dadurch bedingt ist, dass man sich selbst zu ernst nimmt oder sich als Elite fühlt, die selbst definieren kann, was wichtig ist. Ich halte sie stattdessen für eng mit dem Bloggen verbunden. Meine These ist: Blogs sind—wie Essays—eine selbstreferentielle Form, sie dienen der Selbstdarstellung und der Selbstreflexion der Bloggerinnen oder Blogger. Torsten Larbig z.B. stellt sich in seinem Blog als bloggender Lehrer, eben als der _Herr Larbig_ dar und reflektiert sich als solchen. Diese Konzentration auf sich selbst, und auch die Selbststilisierung, das—um das hässliche Wort aus der Viehzucht zu verwenden—_Branding_ unterscheiden ein Blog von einer Serie von Posts bei Facebook oder Google+.
+
+Zu dieser Selbstrefentialität gehört auch, dass ein Blogger sich selbst als Blogger definiert, während man wohl nur selten von sich sagt, dass man ein Facebooker oder Googleplusser ist. Wer bloggt, zeigt dadurch, wie er bloggt, anderen auch, dass er bloggt. Wie ein _doing gender_ gibt es auch ein _doing blogging_: Ein Blogger oder eine Bloggerin präsentiert sich anderen als solcher oder solche. Diese Selbstpräsentation kann man nicht vom Bloggen abtrennen.
+
+Noch mal anders formuliert, mit einem Konzept von [Harold Garfinkel](http://www.paultenhave.nl/IM%20Harold.html "IM Harold Garfinkel"): Ein Blogpost ist nicht nur eine Text über ein Thema sondern auch ein _Account_. Es berichtet darüber, dass man gebloggt hat, sich bloggend mit etwas beschäftigt hat. (So wie man, wenn man kocht, auch sich und anderen mit vielen Mitteln verständlich macht, dass man kocht.) Dass man bloggt, stellt man anders dar, als wenn man deutlich macht, dass man facebookt. Der viel deutlichere Selbstbezug gehört zu den Besonderheiten des Bloggens.
+
+Ich habe jetzt etwas ungerechterweise Torsten Larbigs Post als Vorwand dafür genommen, an einem Gedanken zu formulieren, der mir schon länger vorschwebt, aber noch nicht wirklich deutlich ist. Mir ist klar, dass ich zwei Vorstellungen von Selbstbezug miteinander verbinde: Das ausdrückliche Reflektieren über sich selbst und die Selbstdarstellung oder Darstellung, dass man etwas bestimmtes tut. Dieses Darstellen dessen, was man tut, interessiert mich vor allem. Es sieht im Netz anders aus, als in älteren Schreib- und Kommunikationsumgebungen, und Blogs sind vielleicht eine der ersten Formen einer sozialen Aktivität im Web, die sich nicht in einen Kontext außerhalb des Webs übertragen lässt.

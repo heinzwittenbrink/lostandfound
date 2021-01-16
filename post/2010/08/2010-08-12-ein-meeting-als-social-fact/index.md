@@ -1,0 +1,34 @@
+---
+title: "Ein Meeting als \"Social Fact\""
+date: "2010-08-12"
+categories: 
+  - "allgemein"
+tags: 
+  - "tools"
+---
+
+Der folgende Eintrag gehört für mich in den Komplex _Lernen, was [Ethnomethodologie](http://de.wikipedia.org/wiki/Ethnomethodologie "Ethnomethodologie – Wikipedia") ist_. Es handelt sich nur um einen Formulierungsversuch. Es kann sein, dass ich weit am Ziel vorbeischieße.
+
+Wir haben gestern ein Meeting zur Vorbereitung des [Web Literacy Lab](http://prezi.com/6dwajqmgsp_h/web-literacy-lab-version-2/ "Web Literacy Lab, Version 2 by Heinz Wittenbrink on Prezi") gehabt, mit dem wir im Oktober starten werden. Außer um Organisatorisches ging es auch um unsere Forschungsmethodik, vor allem die Ethnomethodologie. Wie kann man erklären, worum es dabei geht?
+
+Vielleicht ist so ein Meeting selbst kein schlechtes Beispiel. Es war das dritte in einer Reihe mit denselben Teilnehmern, dem Kernteam für das Projekt. Wie könnte man ein solches Meeting beschreiben?
+
+Man könnte sich ganz grob drei Ansätze vorstellen. Der erste wäre der organisationsbezogene, offizielle. Der zweite würde quantitative, statistische Methoden verwenden. Der dritte wäre qualitativ/ethnomethodologisch.
+
+Für den ersten Ansatz wäre das Meeting von der Organisation gefordert. Mitarbeiter und Projektleiter treffen sich, um Aufgaben zu erledigen und zu besprechen. Über die Ergebnisse, aber auch z.B. über das Meeting selbst, seine Teilnehmer und seine Dauer, wird berichtet. Die wichtigen Informationen über das Meeting sind die Informationen, die Organisationen wie unsere Hochschule und die Gesellschaft, die das Projekt fördert, erhalten.
+
+Beim zweiten Ansatz kann man sich verschiedene Fragestellungen vorstellen, die für die Teilnehmer und ihre Organisation relevant sein können, aber nicht müssen. Man könnte etwa verschiedene Regelmäßigkeiten bei solchen Meetings erheben: Wann finden sie statt, wieviele Teilnehmer haben sie, in welchem Verhältnis stehen demographische Eigenschaften der Teilnehmer zu Redezeit und Redezeitpunkt usw. Basis dafür wären Daten, die die Forscher erheben.
+
+Der dritte Ansatz ist der ethnomethodologische. Dieser Ansatz untersucht das Meeting als _social fact_, als soziale Tatsache, die von den Teilnehmern füreinander (wenn auch nicht zwangsläufig nur füreinander) produziert wird. Beschrieben wird eine Folge von Handlungen, vor allem von sprachlichen Handlungen der Teilnehmer, die aufeinander bezogen sind. Das Meeting ist etwas, zu dem man sich bewegt, das man vorbereitet und nachbereitet, das einen Beginn und ein Ende hat, verschiedenen Phasen und z.B. charakteristische Folgen von Fragen und Antworten.
+
+Zum ersten Ansatz gehört eine bestimmte Form der Dokumentation, vor allem offizielle Berichte und Reports (zu denen auch informelle Notizen u.ä. gehören können). Beim zweiten Ansatz dokumentieren Forscher, was passiert ist, eventuell mithife von technischen Hilfsmitteln. Beim dritten Ansatz geht man davon aus, dass sich die Teilnehmer in allen Phasen des Meetings wechseitig selbst erklären bzw. dokumentieren, was stattfindet und was sie tun, allerdings nicht unbedingt explizit. Handlung und Erklärung der Handlung für die anderen Teilnehmer sind nicht voneinander zu trennen.
+
+Beim ersten Ansatz ist die offizielle Dokumentation des Meetings, also z.B. das Protokoll und die Stundenaufzeichnungen der Teilnehmer, zugleich eine Beschreibung des Meetings. Für den zweiten Ansatz ist die offizielle Dokumentation keine relevante Beschreibung des Meetings, sie kann aber selbst zum Untersuchungsgegenstand werden. Beim dritten Ansatz ist die offizielle Dokumentation Teil des Meetings, sie gehört zu den mit dem Meeting verbundenen Ereignissen. Gerade weil sie nur ein Teil des Meetings ist, ist sie sicher keine ausreichend Beschreibung dessen, was die Teilnehmer des Meetings tun.
+
+Beim ersten Ansatz wird das Verhalten der Teilnehmer vor allem durch Regeln und Normen erklärt, denen sie folgen. Beim zweiten Ansatz können Gesetzmäßigkeiten herausgefunden werden, die nichts mit dem zu tun haben, was die Teilnehmer selbst zu tun meinen, und die man als _soziale Gesetze_ verstehen kann (aber nicht muss). Der dritte Ansatz dient dazu, herauszufinden, welche _Methoden_ die Teilnehmer benutzen, um gemeinsam ein soziales Ereignis zu produzieren, und wie sie diese Methoden in einem speziellen Fall interpretieren und modifizieren.
+
+Es ist klar, dass sich diese drei Ansätze nicht wechselseitig ersetzen können. Die offizielle Dokumentation (_classical [accountability](http://userpage.fu-berlin.de/~glossar/de/view.cgi?title=Accountability.%20%82Doing%20Accounts%92 "Freie Universität Berlin - Glossar Geschlechterforschung")_ im Lingo der Ethnomethodologie) gehört zu jedem institutionellen Kontext. Sie kann zwar eine Rolle dafür spielen, wie sich die Teilnehmer wechselseitig laufend erklären, was sie gerade tun. Sie kann diese _natural [accountability](http://userpage.fu-berlin.de/~glossar/de/view.cgi?title=Accountability.%20%82Doing%20Accounts%92 "Freie Universität Berlin - Glossar Geschlechterforschung")_ aber nicht ersetzen. Erhobene Daten und Folgerungen aus ihnen können komplementär zu den Kompetenzen der Teilnehmer eines Ereignisses sein. Sie erfassen aber nicht diese Kompetenzen, sondern höchstens deren Konsequenzen.
+
+Ich will diese sehr allgemeine Gegenüberstellung nicht fortsetzen; ich klammere auch die Frage aus, ob und in welchem Maße diese Beschreibungen _wissenschaftlich_ sind. Mich interessiert vor allem die Frage, wieweit sich auf die Kommunikation im Web, also hypertextuelle, asynchrone Kommunikation, übertragen lassen. Ein Gegenstück zur offiziellen Dokumentation des ersten Ansatzes sind die im Web tatsächlich vorliegenden Resultate der Kommunikation, also im weitesten Sinn hypertextuelle Dokumente. Statische Erhebungen zu dieser Kommunikation, z.B. mit Google Analytics, aber auch fortgeschrittenen Tools zur Netzwerkanalyse, gehören in das Gebiet des zweiten Ansatzes. Um den dritten Ansatz im Web verwenden zu können, ist es wichtig, zuerst einmal _soziale Tatsachen_ im Sinne dieses Ansatzes zu finden—wobei diese Tatsachen den Kommunikationsteilnehmern selbst bekannt sein müssen, also nicht "von außen" konstruiert werden können. Bei einer Suche mit einer Suchmaschine, beim Retweeten oder beim Kommentieren in einem Blog handelt es sich wohl um solche Tatsachen, vermutlich auch bei der Pflege eines Wikis oder einer Twitter-Timeline.
+
+**PS:** Für mich kristallisieren sich vor allem zwei wichtige Aspekte der _sozialen Tatsache_ heraus: Sie hat Teilnehmer, die sie—füreinander verständlich—produzieren oder _performen_, und sie hat einen Verlauf, in dem diese Teilnehmer sie immer wieder neu definieren oder: definieren, was sie gewesen sein wird. Die Frage ist, wie sich dieser Ansatz auf nichtsynchrone Kommunikation in eine Nicht-face-to-face-Situation übertragen lässt.

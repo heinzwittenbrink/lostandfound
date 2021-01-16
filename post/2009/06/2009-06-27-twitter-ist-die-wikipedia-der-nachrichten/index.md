@@ -1,0 +1,9 @@
+---
+title: "Twitter ist die Wikipedia der Nachrichten"
+date: "2009-06-27"
+tags: 
+  - "tools"
+  - "twitter"
+---
+
+Gestern: Telefongespräch mit [@brodnig](http://twitter.com/brodnig/ "ingrid brodnig (brodnig) on Twitter") über die Frage: Wozu Twitter? Ich habe schon einmal versucht, [diese Frage nicht zu beantworten](http://heinz.typepad.com/lostandfound/2008/12/die-frage-welchen-sinn-hat-twitter-hat-keinen-sinn.html "Lost and Found: Die Frage: "Welchen Sinn hat Twitter?" hat keinen Sinn"), und ich glaube noch immer, dass es keinen Sinn hat, nach dem Sinn, der wahren Bedeutung oder dem höheren Zweck von Twitter zu fragen. Spätestens die Ereignisse nach der angeblichen Wahl im Iran haben aber gezeigt, was man mit Twitter besser machen kann als mit allen Werkzeugen, die es vorher gab: Man kann Nachrichten an eine beliebige Zahl von Followern verschicken, die die Nachricht weitergeben, wenn sie sie interessant finden. Twitter ist die Open Source-Version der Nachrichtenagentur. Dass Michael Jackson gestorben ist, habe ich gestern Nacht via Twitter erfahren. So wie jeder Informationen, die er für wichtig hält, in der [Wikipedia](http://de.wikipedia.org/wiki/Wikipedia:Hauptseite "Wikipedia – Die freie Enzyklopädie") veröffentlichen kann, so kann jeder via Twitter auf Ereignisse hinweisen. In der Wikipedia kontrollieren freiwillige Redakteure, ob die Information stimmt und relevant ist. Bei Twitter entscheiden die User, welchen Quellen sie trauen. Mit Twitter kann man nicht mehr tun, als auf ein Ereignis hinzuweisen. Alle weiteren Informationen kann man nur verlinken. Twitter ist also eine Art Headline-Service. Nachrichten zu veröffentlichen, ist im Web auch ohne Twitter möglich. Aber Twitter vereinfacht es radikal und bietet eine Infrastruktur, die es extrem einfach macht, Nachrichten zu folgen. Twitter ist — viel mehr als Blogging-Umgebungen — ein Werkzeug zum Publizieren wie zum Verfolgen von Nachrichten.

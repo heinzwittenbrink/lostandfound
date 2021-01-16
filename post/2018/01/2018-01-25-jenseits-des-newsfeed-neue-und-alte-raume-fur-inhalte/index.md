@@ -1,0 +1,31 @@
+---
+title: "Jenseits des Newsfeed: Neue (und alte) Räume für Inhalte"
+date: "2018-01-25"
+categories: 
+  - "inhaltsstrategie"
+tags: 
+  - "facebook"
+  - "social-media"
+---
+
+Morgen haben wir wieder unseren [Podcast](https://www.youtube.com/channel/UCZhrbsS00cgvbCbHgdYDUXQ?view_as=subscriber). Zur Vorbereitung habe ich eine Reihe von Posts zu den Veränderungen bei Facebook gelesen. Im Hintergrund steht für mich die Frage, was sie für die Zukunft der Content-Strategie bedeuten.
+
+Ich würde die Lektüre so zusammenfassen: Facebook löst durch die Veränderungen im Newsfeed möglicherweise einige Probleme, die es für sich selbst geschaffen hat, und die zu einem stagnierenden Interesse am Newsfeed geführt haben. Die Probleme für andere, vor allem die Probleme, die durch Desinformation entstehen, dürften aber eher noch größer werden. Firmen müssen auf redaktionelle Inhalte auf eigenen Plattformen und auf Konversationen in Messengern setzen und den Newsfeed vor allem als bezahlte Werbeplattform nutzen. Auf der Buzzword-Ebene zeichnet sich ab, dass _Conversation_ an die Stelle von _Content_ treten wird. Aus so unterschiedlichen Perspektiven wie der eines gesellschaftlich verantwortlichen Journalismus[1](#fn-5724-1) oder des Marketing[2](#fn-5724-2) erscheinen Konversationen als Leitformat für Inhalte. Konversationen erzeugen Relevanz, in der persönlichen Kommunikation wie in politischen Communities. Offen ist die Frage, was die Bevorzugung von persönlichen Konversationen im Facebook-Newsfeed für die Konversationen und Inhalten auf anderen Ebenen bedeutet—auf der Ebene des Marketing wie der Ebene der Politik. Wenn ich es richtig sehe, wird von dem _Social Media Marketing_, wie es in den vergangenen Jahren zum Mainstream geworden ist, nicht viel übrig bleiben. Es wird sich ähnlich auflösen und umformen müssen wie die Suchmaschinen-Optimierung der Vor-Panda-Zeit. Im zukünftigen Facebook-Newsfeed werden die Augenblicksinhalte tendenziell genauso herausgefiltert werden wie Suchmaschinen-Spam von den Google-Algorithmen. Organische Reichweite werden bei Facebook die Inhalte haben, über die sich viele Menschen austauschen, die sie also nicht nur einfach liken und sharen. Solche Inhalte werden vermutlich oft einen starken Community-Bezug haben. _Nähe_ wird zu einem noch wichtigeren Kriterium. Es ist aufschlussreich, dass Facebook lokale Nachrichten stärker berücksichtigen wird. Damit verliert Facebook als Publikationsplattform für redaktionelle Inhalte, also für Posts und Artikel im üblichen Sinn, an Bedeutung. Interessant ist, dass Buzzfeed, also eine journalistische Publikation, die von der Social Media-Feeds enorm profitiert hat, sofort dazu übergegangen ist, eine eigene App, also eine eigene Publikationsplattform, zu promoten[3](#fn-5724-3). Für redaktionelle Inhalte werden Websites und Apps wieder zu wichtigeren Kanälen. Andererseits—und das ist vielleicht noch interessanter—werden viele Inhalte nicht mehr in Monologen, also im Feed einer Firma oder einer Organisation, sondern nur noch in Dialogen wahrgenommen werden, und für diese Dialoge sind Messenger-Apps die adäquate Plattform.[4](#fn-5724-4) So startet Facebook wohl nicht zufällig WhatsApp for Business gerade jetzt[5](#fn-5724-5) [6](#fn-5724-6), und es hat auch deutliche Vereinfachungen beim Messenger angekündigt. Die Veränderungen im Newsfeed sind dabei kein plötzlicher Kurswechsel, und die Ankündigungen von Zuckerberg und anderen Verantwortlichen muss man vor allem als PR für Entscheidungen verstehen, die schon vor einiger Zeit gefällt wurden. In Europa machen bereits jetzt Inhalten von Seiten nur noch zwei Prozent des Newsfeeds aus.[7](#fn-5724-7) Was bedeuten diese Veränderungen für politische und journalistische Inhalte? Die Veränderungen im Newsfeed werden von Facebook selbst als Reaktion auf die Desinformation-Kampagnen dargestellt, die wahrscheinlich ein wichtiger Faktor bei der Wahl Trumps waren. (Die Desinformation über soziale Medien ist sicher auch ein Grund für die Erfolge der FPÖ in Österreich.) Tatsächlich wird die Konzentration auf Konversationen in der Nähe aber eher dazu führen, dass sich manipulative Inhalte noch leichter verbreiten können. Indizien dafür liefern die Erfahrungen mit einem eigenen _Explore_\-Feed neben dem Newsfeed, den Facebook auf einigen Märkten, z.B. in Bolivien und in der Slowakei, ausprobiert hat. Ein Artikel darüber in der New York Times wird in mehreren anderen Publikationen aufgegriffen[^8]([What "if anything) do Facebook’s News Feed changes mean for fake news?](http://www.niemanlab.org/2018/01/what-if-anything-do-facebooks-news-feed-changes-mean-for-fake-news/"). Wichtig finde ich in diesem Zusammenhang die lange Reportage in Wired darüber, wie rechte Publikationen sehr erfolgreich Live-Videos auf Facebook nutzen. Diese Videos sind für ihre Nutzerinnen und Nutzer glaubwürdig, weil sie nicht den Regeln der polierten Establishment-Medien folgen.[8](#fn-5724-10)
+
+* * *
+
+2. [Facebook's changes — BuzzMachine](https://buzzmachine.com/2018/01/11/facebooks-changes/) [↩](#fnref-5724-1)
+
+4. [WhatsApp Business: Content Marketing wird Conversation Marketing](https://www.kammannrossi.de/blog/whatsapp-business-content-marketing-wird-endgültig-conversation-marketing) [↩](#fnref-5724-2)
+
+6. [BuzzFeed Responds Perfectly to Facebook's Changes](http://adage.com/article/digital/buzzfeed-s-perfect-response-facebook-s/311936/) [↩](#fnref-5724-3)
+
+8. [Was kommt nach Social Media](https://www.lead-digital.de/messenger-was-kommt-nach-social-media/) [↩](#fnref-5724-4)
+
+10. [Whatsapp führt Business-App ein | W&V](https://www.wuv.de/digital/whatsapp_fuehrt_business_app_ein) [↩](#fnref-5724-5)
+
+12. [WhatsApp Business: Content Marketing wird Conversation Marketing](https://www.kammannrossi.de/blog/whatsapp-business-content-marketing-wird-endgültig-conversation-marketing) [↩](#fnref-5724-6)
+
+14. ['Organic reach on Facebook is dead': Advertisers expect price hikes after Facebook's feed purge - Digiday](https://digiday.com/marketing/organic-reach-facebook-dead-advertisers-will-spend-reach-facebooks-feed-purge/) [↩](#fnref-5724-7)
+
+16. [Facebook Live Is the Right Wing’s New Fox News | Backchannel](https://www.wired.com/2017/01/facebook-live-is-the-right-wings-new-fox-news/) [↩](#fnref-5724-10)

@@ -1,0 +1,24 @@
+---
+title: "Arabische Revolution und soziale Medien—Thesen"
+date: "2011-02-27"
+categories: 
+  - "allgemein"
+tags: 
+  - "politik"
+  - "theorie"
+---
+
+Ich versuche eine Antwort auf die Frage zu finden, welche Rolle soziale Medien für die Revolution in den arabischen Ländern spielen. Ich verwende den Ausdruck _Revolution_ mit Absicht, denn die politische und soziale Landschaft dort und auch hier hat sich bereits radikal verändert, und es wird keine Rückkehr zum Status quo davor geben, selbst wenn es in vielen Ländern nicht zu freien Wahlen und voller Meinungs- und Pressefreiheit kommen sollte. Interessante Quellen waren für mich bisher: die Fernsehdiskussion von Al Jazeera und der Columbia University [Social networks, social revolution](http://www.youtube.com/watch?v=441HJTSUpXw "YouTube - Empire - Social networks, social revolution"), Peter Beaumonts Bericht im Guardian [The truth about Twitter, Facebook and the uprisings in the Arab world](http://www.guardian.co.uk/world/2011/feb/25/twitter-facebook-uprisings-arab-libya?intcmp=239 "The truth about Twitter, Facebook and the uprisings in the Arab world | World news | The Guardian") und Evgeny Morozovs Artikel [Smart Dictators Don't Quash the Internet](http://online.wsj.com/article/SB10001424052748704657704576150653606688990.html "Smart Dictators Don't Quash the Internet - WSJ.com") im Wall Street Journal. Noch nicht gründlich genug gelesen habe ich bisher den zentralen [“Twitter Can’t Topple Dictators” Article](http://pressthink.org/2011/02/the-twitter-cant-topple-dictators-article/ "“Twitter Can’t Topple Dictators” Article » Pressthink") von Jay Rosen, der viele Beiträge aus den USA kritisiert und verlinkt. Empfehlen möchte ich auch Christiane Schulzki-Haddoutis Kommentar [Das Internet als Werkzeug der Revolution](http://wissen.dradio.de/netzkommentar-das-internet-als-werkzeug-der-revolution.85.de.html?dram:article_id=8668&sid=&random=a0fbfd "Netzkommentar - Das Internet als Werkzeug der Revolution").
+
+Bevor ich mich weiter mit dem Thema beschäftige, versuche ich hier ein paar Thesen zu formulieren—provisorisch und zur ersten Orientierung:
+
+1. Es gibt keine eindeutige Zuordnung oder direkte Abhängigkeit von technischen und sozialen Phänomenen. Wenn eine Gruppe eine bestimmte Technik verwendet, ergibt sich daraus nicht wie automatisch, dass sie in einer bestimmten Weise sozial oder politisch agiert. Twitter oder Facebook, das Internet oder die sozialen Medien sind nicht etwas Vorhandenes, das man für sich beschreiben und dann in Beziehung zu anderen Phänomenen setzen könnten.
+    
+2. Facebook und Twitter sind aber soziale Akteure, etwa durch die ägyptischen Facebook-Seiten oder die ägyptische Twitteria. Sie _übersetzen_ das Handeln der anderen Akteure in einer spezifischen Weise, mit der sowohl das Tempo der Revolten als auch ihre Führerlosigkeit zusammenhängt. Sie haben eine Schlüsselfunktion bei der Mobilisierung zur Aktion, und zwar innerhalb der arabischen Gesellschaften und international. Umgekehrt werden die sozialen Medien dabei selbst in einer spezifischen Weise übersetzt/interpretiert, die sich nur aus dem Handeln der übrigen Akteure verstehen lässt.
+    
+3. Die konstitutive Funktion für soziales Handeln, haben soziale Medien offenbar sogar dann, wenn sie nicht zugänglich sind: nämlich als mögliche, aber verbotene Form der Öffentlichkeit oder Kommunikation, die angestrebt wird. Facebook und Twitter sind zwar verwundbar, weil sie leicht lahmgelegt werden können, und sie eignen sich als Kontrollinstrumente, weil die Regierungen durch sie die Aktivisten beobachten kann—aber die Unzugänglichkeit dieser persönlichen Formen der Kommunikation und die Möglichkeiten sie zu umgehen lassen sie im Spiel bleiben und führen zu anderen politischen Zielen ("keine Beschränkung von Facebook") und Formen des Widerstands (z.B. Twittern über Telefonanrufe ins Ausland), als es sie ohne Internet gäbe.
+    
+4. Wenn wir uns in Europa oder den USA mit der Frage beschäftigen, ob es sich hier nun um eine _Twitter-Revolution_ oder nicht handelt, konzeptualisieren oder konstruieren wir unseren eigenen Umgang mit diesen Medien. Wir interagieren dabei mit den sozialen Medien, die wir direkt oder indirekt (etwa über die auf sie bezogene Berichterstattung in den alten Massenmedien) benutzen und über die wir das Geschehen verfolgen. Wir vernetzen uns außerdem—in einer sehr vermittelten Weise—mit den Revolten selbst, die damit auch unserer sozialen oder politischen Realität werden.
+    
+
+Ich hoffe, dass ich diese Thesen bald präzisieren oder revidieren kann. Mein [Instapaper](http://www.instapaper.com/u "Instapaper")\-Account ist voll mit zu lesenden Texten zum Thema. Auch wenn es weit hergeholt wirkt: Wie wir hier mit sozialen Medien umgehen werden, ist von den Entwicklungen in Tunesien, Ägypten und den anderen arabischen Ländern auf Dauer nicht zu trennen.

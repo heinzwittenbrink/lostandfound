@@ -1,0 +1,15 @@
+---
+title: "Ich versuche mir einen Reim zu machen auf die Zusammenarbeit der Rechtsextremen, hier in Österreich der FPÖ, und der konservativen Rechten, hier der ÖVP unter Kurz."
+date: "2017-12-05"
+categories: 
+  - "journal"
+---
+
+Ich versuche mir einen Reim zu machen auf die Zusammenarbeit der Rechtsextremen, hier in Österreich der FPÖ, und der konservativen Rechten, hier der ÖVP unter Kurz. Ähnliche Konstellationen gibt es in Amerika, wo die traditionellen Republikaner und die Trump-Leute kooperieren, und in Großbritannien, wo die Hardcore-Brexiters und die gemäßigteren Tories in derselben Regierung sitzen. Schwer zu begreifen ist für mich, was klassische Neoliberale mit den Nationalisten und Populisten verbindet.
+
+Mir scheint, dass hinter dieser Konstallation zwei Faktoren stehen:
+
+1. Die wirtschaftsliberale Ideoleogie aus dem 20. Jahrhundert hat ihre Überzeugungskraft verloren. Angesichts der Begrenzheit der globalen Ressourcen, der Folgen der Finanzkrise und der immer größeren wirtschaftlichen Ungleichheit auch in den reichen Ländern kann man nicht mehr glaubwürdig vertreten, dass noch mehr freier Markt irgendwann zum größtmöglichen Glück für die größte Zahl führen wird und dass die Globalisierung die unterschiedlichen Bedingungen in den verschiedenen Ländern einebnen und damit die Konflikte zwischen Nationen aufheben wird. (Diesen Prozess und seinen Hintergrund beschreibt Bruno Latour in seinem neuem Buch [Où atterrir](http://www.bruno-latour.fr/node/738).) Den Wirtschaftsiberalen und den gemäßigten Konservativen werden langfristige Entwicklungen zunehmend unwichtig; an deren Stelle treten Besitzstandswahrung und kurzfristige Durchsetzung von Interessen. Universalistische und übernationale Konzepte werden damit rechts von der politischen Mitte unattraktiv.
+2. Zur wirtschaftsliberalen Ideologie des letzten Drittels des 20 Jahrhunderts gehört der Glaube, dass Marktmechanismen effizienter sind als öffentliche Konzertation und Planung. Die öffentliche Sphäre wurde systematisch entmächtigt. Die individualistisch orientierten gemäßigten Konservativen und die an fiktiven Kollektiven (Völkern, essentialistisch verstandenen Nationen) orientierten radikalen Rechten sind sich im Kampf gegen gesellschaftliche Konzertation, institutionell abgesicherte Öffentlichkeit, staatliche Planung im Interesse des Gemeinwohls und die Förderung von Minderheiten und weniger Privilegierten weitgehend einig. Das erleichtert ihnen eine Koalition. Hier in Österreich bietet dafür das emotionale Marketing der ÖVP, die jeder öffentlichen politischen Debatte über reale Probleme aus dem Wege geht, die optimale Fassade.
+
+Diese beiden Entwicklungen - der Verlust des Fortschrittsglaubens und des Universalismus bei den Wirtschaftsliberalen zum einen und die Erosion und Entmächtigung der öffentlichen Sphäre zum anderen führen zu den eigenartigen Amalgamen von dumpfem Nationalismus, traditionellem Konservativismus und Wirtschaftsliberalismus, wie sie sich in Ungarn und den USA durchgesetzt haben. Die meisten in der politischen Mitte und auf der Linken unterschätzen die Schlagkraft dieser Konstellationen noch immer.

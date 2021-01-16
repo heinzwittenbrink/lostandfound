@@ -1,0 +1,23 @@
+---
+title: "Von Assange zu Zuckerberg"
+date: "2010-12-16"
+categories: 
+  - "gesellschaft-und-oeffentlichkeiten"
+tags: 
+  - "online-journalismus"
+  - "soziale-medien-vs-massenmedien"
+---
+
+Die Time-Redaktion hat [Mark Zuckerberg zur "Person of the Year 2010"](http://www.time.com/time/specials/packages/article/0,28804,2036683_2037183,00.html "Mark Zuckerberg - Person of the Year 2010 - TIME") erklärt. Die Leser hatten [für Julian Assange gestimmt](http://newsfeed.time.com/2010/12/13/julian-assange-readers-choice-for-times-person-of-the-year-2010/ "Julian Assange: Readers’ Choice for TIME’s Person of the Year 2010 - TIME NewsFeed"), aber in einem Land, das den Soldaten seiner Air Force [den Zugang zum Spiegel und zum Guardian untersagt](http://www.spiegel.de/politik/ausland/0,1518,734716,00.html "Mediensperre im Web: U.S. Air Force zensiert WikiLeaks-Inhalte - SPIEGEL ONLINE - Nachrichten - Politik"), wäre es wohl politisch zu unkorrekt gewesen, ihnen zu folgen.
+
+Zuckerberg und Assange sind Symbolfiguren für die Gebiete, die ich unterrichte: Social Media und Onlinejournalismus. Dass sie wie nie zuvor weltweite Aufmerksamkeit auf diese Gebiete lenken, sehe ich mit gemischten Gefühlen. Hier ein paar ins Unreine formulierte Gedanken dazu:
+
+Mit WikiLeaks und Facebook werden soziale Medien oder Online-Medien (alle diese Ausdrücke sind provisorisch) zum ersten Mal deutlich zu Leitmedien: Sie kontrollieren mehr als die alten Massenmedien, was öffentlich wird und wie es öffentlich wird. WikiLeaks und Facebook stehen aber auch für neue und potenziell autoritäre Formen der Intransparenz. Sie entziehen sich der öffentlichen Kontrolle und behaupten Machtpositionen, weil sie selbst Daten monopolisieren.
+
+WikiLeaks und Facebook zeigen, wie radikal sich die Öffentlichkeit in einer internetbasierten Gesellschaft (wenn _Gesellschaft_ das richtige Wort ist) von älteren Formationen unterscheidet. FaceBook steht für die Möglichkeiten der Kommunikation zwischen vernetzten Individuen und ihre Überlegenheit (größere Genauigkeit, leichtere Übersetzbarkeit in Aktionen) gegenüber der alten Massenkommunikation, bei der isolierte Individuen Nachrichten von den wenigen erhalten, die die Kommunikationsmittel beherrschen. WikiLeaks steht für die Überlegenheit der netzbasierten Beobachtung und Kontrolle von Machthabern gegenüber den bisherigen Möglichkeiten der Presse. WikiLeaks und Facebook repräsentieren einen technologiegestützten Sprung in den Möglichkeiten, Öffentlichkeit herzustellen. Sie führen der Politik und den Medien aus der Zeit vor dem Netz die eigene Ohnmacht vor, und deshalb provozieren sie aggressive und aggressivste Reaktionen.
+
+Assange und Zuckerberg stehen für Grenzüberschreitungen, für potenziell obszöne (danke [Markus Spath](http://hackr.de/2010/12/04/am-ende-der-wurst "live.hackr : Am Ende der Wurst")!) Blicke auf Verborgenes. Sie provozieren beide dadurch, dass sie Offenheit fordern oder herstellen, wo Geheimnisse oder Vertraulichkeit üblich sind. Sie sind beide selbst imaginäre Produkte, übrigens in klassischen negativen Männerrollen. Sie repräsentieren dabei auch die eigene Intransparenz, die es wohl erst möglich macht sie zu heroisieren oder zu dämonisieren.
+
+Die _Produkte_ von WikiLeaks und Facebook basieren auf Daten. Plötzlich wird allen deutlich, dass Daten zu einem Grundstoff der sozialen Wirklichkeit geworden sind, dass diese Wirklichkeit über Daten beobachtet und kontrolliert wird, dass sie nur über Daten verstanden werden kann. WikiLeaks und FaceBook zeigen, dass [die Zukunft den Firmen und Leuten gehört, die Daten in Produkte verwandeln](http://radar.oreilly.com/2010/06/what-is-data-science.html "What is data science? - O'Reilly Radar"). (Um auf meinen eigenen Job zurückzukommen: Mein Password für Online-Journalismus und Online-PR war in den letzten Jahren "Soziale Medien", in den kommenden sollten _Datenjournalismus_ oder _data science_ dazu kommen.)
+
+Mit _Open Data_ im Sinne von öffentlich zugänglichen, weiterverarbeitbaren und kontrollierbaren Daten haben allerdings weder WikiLeaks noch Facebook viel zu tun. Sie erlauben (bisher) vor allem den Blick auf die Daten, nicht die Verknüpfung der Daten. Die Designprinzipien des Webs, an die [Tim Berners-Lee gerade deutlich erinnert hat](http://www.scientificamerican.com/article.cfm?id=long-live-the-web "Long Live the Web: A Call for Continued Open Standards and Neutrality: Scientific American"), werden von ihnen nicht respektiert: Sie arbeiten zentralisiert und verzichten auf Universalität. Ich bin gespannt, ob die Heroisierung von Assange und Zuckerberg zu Medienstars gesellschaftliche Transparenz auf Dauer eher steigert oder blockiert.

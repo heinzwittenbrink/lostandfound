@@ -1,0 +1,19 @@
+---
+title: "Webkompetenz und Reflexivität"
+date: "2009-11-22"
+categories: 
+  - "allgemein"
+tags: 
+  - "forschung"
+  - "medienkompetenz"
+---
+
+Ein Vorschlag zur Definition von _web literacy_: _Web literacy_ ist die die Fähigkeit, mit den Mitteln des Web _reflexiv_ eine gemeinsame soziale Realität zu erzeugen.
+
+Ich habe gestern zwei Aufsätze gelesen, die sich mit der _Reflexivität_ in der Ethnomethodologie beschäftigen ([Geschichte versus Genealogie](http://nbn-resolving.de/urn:nbn:de:0114-fqs090345 "URN des Aufsatzes") von [Andreas Langenohl](http://www.exc16.de/cms/langenohl.html "Langenohl, Andreas - exc16.de") und [The Notion of Member is the Heart of the Matter](http://nbn-resolving.de/urn:nbn:de:0114-fqs0203217 "URN des Aufsatzes") von [Paul ten Have](http://www.paultenhave.nl/ "Index Paul ten Have")). Ethnomethodologen sehen Reflexivität als eine Eigenschaft jeden sozialen Handelns an. Soziales Handeln erzeugt immer zugleich das, was es ausdrückt; die Methoden, mit denen man von seinen Handlungen Rechenschaft ablegt, sind Bestandteile des Handelns. Beim Handeln werden Äußerungen, Dokumente und Dokumentationen produziert, die es für die Handelnden und ihre Mitwelt verständlich machen. Mitglied einer Gruppe ist man dadurch, dass man von seinem Handeln in dieser Gruppe Rechenschaft ablegen kann.
+
+Sein Handeln zu begründen und zu dokumentieren, Rechenschaft von ihm abzulegen ([Garfinkel](http://de.wikibooks.org/wiki/Soziologische_Klassiker/_Garfinkel,_Harold "Soziologische Klassiker/ Garfinkel, Harold – Wikibooks, Sammlung freier Lehr-, Sach- und Fachbücher") spricht von _accountancy_) bedeutet _Methoden_ anzuwenden, um in offenen Situationen immer wieder neu eine soziale, gemeinsame Realität zu produzieren. Ein Beispiel: Wenn ich als Lehrer einem Studenten eine Note gebe, benutze ich explizite (z.B. ein Punktesystem) und implizite (z.B. mein Bewertung seiner sprachlichen Fähigkeiten) Schemata zusammen mit Verfahren zur Ankündigung und Abhaltung von Prüfungen und zur Dokumentation, um zu einem Ergebnis zu gelangen, das für den Studenten, für meine Kollegen, für mich und für meine Vorgesetzten plausibel ist, das wir als gemeinsame Realität verstehen. Wie alle Beteiligten folge ich nicht nur Regeln, sondern erkläre zugleich, welchen Regeln ich folge und warum ich ihnen folge, ich muss mich mit Situationen beschäftigen, bei denen ich mit den Regeln nicht auskomme, und ich muss auch immer wieder Regeln neu aushandeln. Die soziale Wirklichkeit liegt nicht vor, sondern sie wird immer wieder neu gemacht. Die Methoden, die die Mitgliedern einer Gruppe dabei gemeinsam verwenden, machen ihre _Kompetenz_ aus.
+
+Lässt sich dieser Begriff vor Reflexivität für die Beschreibung von Webmedien oder sozialen Medien fruchtbar machen? Menschen, die soziale Medien verwenden, produzieren eine gemeinsame soziale Realität und legen gleichzeitig permanent von ihren Aktivitäten in dieser Realität Rechenschaft ab. Webkompetenz oder _web literacy_ bestünde dann aus den Methoden, mit denen man im Web eine soziale Wirklichkeit produziert. Dazu gehören z.B. Methoden, um die Reputation von Teilnehmern oder die Wichtigkeit von Informationen festzustellen. Dazu gehören auch Methoden, z.B. mit Kommentaren, Retweets und ähnlichem auf Äußerungen zu reagieren. Alle diese Methoden sind nicht einfach etwas Vorgegebenes, sondern sie werden laufend diskutiert, und man macht sich sein Handeln in dieser Web-Wirklichkeit immer wieder wechselseitig verständlich—wohl eine der Hauptfunktionen von Blogs, Microblogs und Veranstaltungen wie BarCamps.
+
+Das sind nur Anfangsüberlegungen. Nächste Schritte könnten genauere Analysen zur Reflexivität und ethnographische Detailbeschreibungen des Umgangs mit sozialen Medien sein, die die _accountancy_, die Verfahren, Rechenschaft von der eigenen Praxis abzulegen, thematisieren.

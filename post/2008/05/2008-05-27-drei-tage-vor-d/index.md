@@ -1,0 +1,18 @@
+---
+title: "Drei Tage vor dem PolitCamp"
+date: "2008-05-27"
+categories: 
+  - "allgemein"
+tags: 
+  - "politik"
+---
+
+Noch drei Tage bis zum [PolitCamp](http://www.barcamp.at/PolitCamp_Graz "Wiki zum PolitCamp Graz") — die Studenten und Kolleginnen, die mitorganisieren, haben sich sehr engagiert, nicht weil es ihr Job wäre, sondern weil sie wollen, dass die Veranstaltung ein Erfolg wird. Natürlich ist es hilfreich, dass wir die Infrastruktur der [FH](http://www.fh-joanneum.at "Website der Fachhochule JOANNEUM") zur Verfügung haben. Trotzdem werden die Teilnehmerinnen und Teilnehmer auch die Veranstalter sein. Die Vorbereitung soll nur die Vorausstzungen dafür herstellen, dass ein selbstorganisiertes Event stattfinden kann.
+
+Von der Regel, dass der Ablauf eines BarCamps am Morgen von den Teilnehmern geplant wird, sind wir nur an einem Punkt abgewichen: Wir haben einige feste Termine für Politikerinnen und Politiker eingeplant, die einen vollen Terminkalender haben und nur zu bestimmten Zeiten können. Ich glaube, dass das zu rechtfertigen ist, weil wir ja auch in die Politik hineinwirken möchten. Wir haben auch versucht zu erreichen, dass ein paar Themen schon vor dem Event benannt werden, damit sich mögliche Teilnehmer vorstellen können, was am Freitag und Samstag eigentlich stattfinden wird. Trotzdem versuche ich, den Leuten, die mich darauf ansprechen, klarzumachen, dass es bei einem BarCamp nicht vor allem auf Statements und Präsentationen, sondern auf die Fragen ankommt, und darauf, dass man Platz für Zufälle lässt. Bei den BarCamps, die ich bisher besucht habe, waren für mich die Gespräche mit Menschen am interessantesten, die ich vorher nicht oder kaum kannte, und die vielen Informationen und Ideen, auf die man bei einem solchen Event fast zufällig stößt. Zu einem guten Teil geht es bei einem BarCamp um das, was man auf Englisch als [serendipity](http://de.wikipedia.org/wiki/Serendipity "Deutscher Wikipedia-Artikel über serendipity") bezeichnet.
+
+Was erwarte ich vom PolitCamp, warum mache ich bei der Vorbereitung mit? Ich möchte, dass so etwas wie ein lokaler Gesprächsraum entsteht, in dem diskutiert wird, wie sich die Politik hier in Österreich durch das Internet und die mobile Kommunikation verändert, verändern kann. Dabei stehen Internet und mobile Kommunikation für mich nicht nur für Technologien, sondern auch für soziale Tendenzen, für die Herausbildung der _Netzwerkgesellschaft_. Das Thema taucht in den Medien, in der Politik und in der PR immer wieder auf, aber es kommt nur selten zu einem Diskurs jenseits der Institutionen. Gerade ein solcher Diskurs ist aber wichtig, weil die vorhandenen Formen der Politik und der Öffentlichkeit aus der Zeit vor dem Netz stammen und zu einem großen Teil in einer Netzwerkgesellschaft nicht mehr zeitgemäß sind. Für mich wäre das PolitCamp dann erfolgreich, wenn es zu Geprächen führt, die sich fortsetzen — zum Beispiel bei weiteren PolitCamps.
+
+Ein weiterer Aspekt ist für mich wichtig, weil ich an einer Fachhochschule unterrichte: Ich hoffe, dass interessierte Studenten und auch andere junge Leute mit der Welt des Web 2.0 und vor allem mit der Kultur in Berührung kommen, die zu ihr gehört. Dabei kommt es mir nicht auf eine große Menge von Teilnehmern an sondern auf Nachhaltigkeit bei einigen. Ich sehe das PolitCamp durchaus auch als Lehrveranstaltung und hoffe, dass sich Menschen beteiligen, die solche Events noch nicht kennen — mit eigenen Beiträgen und mit vielen Fragen an die anwesenden _Digerati_.
+
+(Gepostet auch im [PolitCamp-Blog](http://www.politcamp.at/2008/05/drei-tage-vor-d.html "PolitCamp Graz 2008: Drei Tage vor dem PolitCamp"))

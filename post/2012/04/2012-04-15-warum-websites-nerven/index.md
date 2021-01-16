@@ -1,0 +1,28 @@
+---
+title: "Warum Websites nerven"
+date: "2012-04-15"
+categories: 
+  - "allgemein"
+tags: 
+  - "theorie"
+---
+
+Als Überschrift für einen Teil unserer Arbeit beim [Web Literacy Lab](http://wll.fh-joanneum.at/ "Web Literacy Lab") geht mir immer wieder etwas durch den Kopf wie _Warum nerven Websites?_ Eine Antwort auf diese Frage kann man mit einem Begriff von [Karl E. Weick](http://www.bus.umich.edu/FacultyBios/FacultyBio.asp?id=000119782 "Faculty Profile - Stephen M. Ross School of Business") geben: Websites nerven, weil sie eine feste Kopplung von Informationen versuchen, wo nur _lose Kopplung_ möglich ist. Die Websites von Organisationen sind bürokratische Phantasien. Deshalb sind sie unsexy und in der Realität größtenteils nutzlos.
+
+Ich lese gerade Weicks Buch [Making Sense of the Organization](http://books.google.at/books/about/Making_Sense_of_the_Organization.html?id=agZzW4mqS4wC&redir_esc=y "Making Sense of the Organization - Karl E. Weick - Google Books"). Weick beschäftigt sich darin u.a. mit der Rolle der Rationalität in Organisationen. Seine Argumentation ist subtil und nicht gut thesenartig zusammenzufassen. Weick untersucht Organisationen nicht als mehr oder weniger statische Einheiten sondern als Ergebnisse von Interaktionen, in denen sie immer wieder neu konstruiert werden. Wie Organisationen arbeiten, hängt meist viel weniger von rationaler Planung ab, als es die Organisationen nach außen vorgeben. Im Anschluss an [Jeffrey Pfeffer](http://faculty-gsb.stanford.edu/pfeffer/ "Jeffrey Pfeffer: Faculty: Stanford GSB") beobachtet Weick, dass Organisationen Rationalität als eine Fassade benutzen, wenn sie über Ziele, Planung, Absichten und Analyse sprechen. Der Grund dafür liege nicht darin, dass diese Praktiken tatsächlich funktionieren, sondern dass die Leute, von denen die Organisation ihre Ressourcen erhält, glauben, dass solche Praktiken funktionieren und ordentliches Management signalisieren (S.35):
+
+> Organizations use rationality as a facade when they talk about goals, planning, intentions and analysis, not because these practices necessarily work, but because people who supply resources believe that such practices work and indicate sound management ([Pfeffer 1981](http://www.bibsonomy.org/bibtex/1b0b68d2cbf02b273001d3184959f505d "BibSonomy :: Publikation :: Power in organizations - Verlinkung von mir, H.W."), pp. 194-196).
+
+Die Struktur der meisten komplexen Organisationen lässt sich mit dem Konzept der _losen Kopplung_ erfassen, wie es Weick selbst ursprünglich bei der Analyse von Bildungsinstitutionen entwickelt hat. Die Verantwortung ist an Gruppen, nicht an Individuen delegiert, die auch auf unteren Ebenen weitgehend autonom agieren können. Fragen der Autorität, Legitimität und Nichtunterordnung stellen sich wie in den Universitäten nur selten in scharfer Form (S. 39):
+
+> Questions of authority, legitimacy and insubordination are greatly attenuated in universities, but the same is true in other organizations in which the ties among subsystems are loose and responsibility is delegated to groups rather than to individuals… the loosely coupled university structure is a prototype for all complex organizations in which lower-level segments act like top management.
+
+Aus meiner persönlichen Erfahrung in einem großen Konzern und in einer Hochschule kann ich viele Belege für Weicks These anführen. Hier interessiert mich aber vor allem, dass Organisationen sich nach außen, gegenüber den _Stakeholdern_, von denen sie abhängen, deutlich rationaler geben, als sie tatsächlich funktionieren. Genau das ist offenbar auch die Funktion von Firmen-Websites, in denen sich Organisationen als planvoll geordnete Apparate präsentieren, in denen vom letzten Produkt bis zum Mission Statement alles in nachvollziehbarer Weise miteinander zusammenhängt.
+
+Das Problem des Formats _Firmen-Website_ oder _Organisations-Website_ ist, dass sie zu dieser Art von fester Kopplung von Informationen zwingt, für die es sonst gar keine Notwendigkeit gibt. In allen anderen internen und externen Publikationen kann man sich auf Teilaspekte beschränken. Selbst das Top-Management muss die eigene Firma nur unter Teilaspekten als ein Ganzes wahrnehmen. Dabei sind die Prinzipien, nach denen in einer Website Informationen miteinander verbunden sind, wiederum viel simpler und statischer als es selbst eine relativ einfache Organisation sein kann.
+
+Hinzu kommt, dass die Strukturen von Websites statisch sind, während sich Organisationen permanent verändern. Außerdem zwingen die meisten Websites bzw. Content-Management-Systeme den einzelnen Einheiten in einer Organisation ein Schema auf, das ihren Besonderheiten nicht entspricht.
+
+Ich weiss, dass ich hier sehr allgemein argumentiere. Ich bin mir auch sicher, dass es diese Argument in differenzierterer Form schon gibt. Ich versuche hier nur, "laut zu denken" um Konzepte von Weick für die Analyse von Publikationsformen fruchtbar zu machen. (Leider habe ich meinen [ersten Versuch in dieser Richtung](http://heinz.typepad.com/lostandfound/2010/10/metabloggen-mit-karl-e-weick.html "Metabloggen mit Karl E. Weick - Lost and Found") damals nicht fortgesetzt.)
+
+Das Ergebnis dieser Überlegungen ist, dass sich komplexe Organisationen nicht in Websites abbilden lassen. Das Format der Organisations- oder Firmenwebsite funktioniert als solches nicht. Organisationen müssen ihre Webangebote als Publikationen oder Applikationen verstehen, die spezifische Zwecke haben, auf unterschiedlichste Weise miteinander verbunden sein können, aber nie eine Organisation ihrer Ganzheit oder als Ganzheit abbilden können—weil Organisationen keine Ganzheiten sind.

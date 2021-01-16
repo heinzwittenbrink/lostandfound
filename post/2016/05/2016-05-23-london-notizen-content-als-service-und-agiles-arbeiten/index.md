@@ -1,0 +1,44 @@
+---
+title: "London-Notizen: Content als Service und agiles Arbeiten"
+date: "2016-05-23"
+categories: 
+  - "inhaltsstrategie"
+tags: 
+  - "content-strategie"
+  - "design"
+  - "studiengang-content-strategie"
+---
+
+Als das zentrale und wichtigste Thema der [Präsenzwoche in London](http://wittenbrink.net/lostandfound/gespannt-cos-prasenzwoche-in-london/ "Gespannt: COS-Präsenzwoche in London") hatte ich zu Beginn das User Experience Design verstanden. Im Nachhinein würde ich eher von Inhalts-Design und Service-Design beziehungsweise vom Design einer _digital experience_ sprechen. Wir haben drei Organisationen besucht, bei denen wir mit dieser Thematik in einer ganz unterschiedlichen, aber immer sehr eindrucksvollen Weise konfrontiert wurden: die Agentur [DigitasLBi](http://www.digitaslbi.com/de/ "DigitasLBi – Internationale Marketing- und Technologie-Agentur für die Digitale Welt"), den [Government Digital Service](https://gds.blog.gov.uk/ "Government Digital Service") und [Facebook London](https://www.facebook.com/facebooklondon/ "(3) Facebook London").
+
+## Digital First
+
+Uns hat beeindruckt, mit welcher Konsequenz, und in welcher Größenordnung hier digitales Geschäft betrieben wird. Die Firmen und Organisationen, die wir besucht haben, hält zusammen, dass sie digitales Business nicht als etwas Nachgeordnetes betreiben, etwas, das man neben dem _business as usual_ auch noch machen muss, sondern dass sie so konsequent wie möglich auf die digitale Technologie, oder besser: Kultur setzen. Nichtdigitaler Zugang zu Inhalten und Dienstleistungen wird nicht ausgeschlossen, aber als Ersatz für das Digitale verstanden—nicht umgekehrt, wie es bei uns noch der Fall ist.
+
+## Content als Service
+
+Alle drei Firmen stellen sowohl ihre Produkte beziehungsweise ihre Dienstleistungen auf das Digitale als entscheidendes Geschäftsfeld ein wie die Weise, in der sie diese Dienstleistungen entwickeln. Die Produkte selbst sind digitale Dienste. Sie werden über interdisziplinäre Designprozesse entwickelt. Die Schwerpunkte bei unseren Besuchen waren verschieden, aber sie greifen ineinander, und die Rolle der Content Strategen beziehungsweise der Content Designer ist ähnlich.
+
+## digitasLBI
+
+Bei DigitasLBI wird die komplette _customer journey_ in den Mittelpunkt gestellt, also alle Weisen, in denen Kunden mit einem digitalen Produkt in Beziehung kommen. Diese Prozesse werden so umfassend und sorgfältig wie möglich analysiert. Dann werden die Produkte, in unserem Fall große Websites, sorgfältig in vielen Einzelschritten testbasiert darauf eingestellt. Im Vordergrund steht aber das Gesamtdesign eines Produkts. Bei unserem Besuch bei DigitasLBI wurde das augenfällig demonstriert, als uns [Chris Ball](https://www.linkedin.com/in/christopherleeball "Christopher Lee Ball | LinkedIn") ein einziges riesiges Poster zeigte, das für ein Produkt die gesamte User Experience, aber auch den gesamten Designprozess in allen Phasen abbildete. Hier ist die Integration der verschiedenen Komponenten der entscheidende Erfolgsfaktor.
+
+## Facebook
+
+Bei Facebook haben wir nicht ein bestimmtes neues Produkt kennengelernt. Facebook nimmt solche Entwicklungen nicht in aller Öffentlichkeit vor. Wir haben aber von mehreren Content-Strateginnen und Strategen erfahren, wie sie arbeiten. Für die Content-Fachleute bei Facebook steht die Konzentration auf die einzelnen Formulierung, den einzelnen Satz, im Vordergrund—immer übrigens mit der Frage, ob Sprache oder ein anderes Medium im Einzelfall am besten funktioniert. Auch hier sind die Content-Stratege eigentlich Content-Designer. Die Bedeutung ihrer Arbeit wird dadurch bestimmt, das alles, was gemacht wird, von einem Millionen- beziehungsweise Milliarden-Publikum verwendet wird. Entsprechend sorgfältig wird mit jedem Detail umgegangen, entsprechend sorgfältig wählt Facebook die Leute aus, die an solchen Designprozessen beteiligt sind, und entsprechend groß ist die Motivation der Leute, die bei Facebook für die Inhalte zuständig sind. Bemerkenswert bei Facebook war auch die Konzentration auf das Entwicklungstempo. Das Thema _move fast_ steht hier im Vordergrund.
+
+## Government Digital Service
+
+Beim Government Digital Service sind die Kriterien etwas anders. Es geht nicht nur darum, dass möglichst viele einen Dienst gern nutzen und dabei eine angenehme Erfahrung haben, es geht darum dass alle, die sie benötigen, die Dienstleistung tatsächlich erfolgreich verwenden. Es kommt also zum Beispiel darauf an, dass sie ihre Steuererklärung digital in der richtigen Weise vornehmen. Auch hier wird im Detail intensiv getestet. Ich habe eine der Content-Strateginnen bei Facebook, die vorher beim Government Digital Service gearbeitet hatte, gefragt, wie sich ihre Arbeit jetzt von der bei GDS unterscheidet. Die Antwort war, dass eigentlich vor allem die Atmosphäre unterschiedlich sei. Bei GDS hatte sie immer den Eindruck gehabt, man müsse eine Katastrophe vermeiden. Bei Facebook kommt es vor allem auf positive und angenehme Erfahrungen an.
+
+## Content-Strategen als Content-Designer
+
+Gemeinsam ist diesen drei Formen eines digitalen Service Design, dass Content-Strategen in das Gesamtdesign integriert sind. Ihre Rolle beschreibt der Ausdruck _Content Designer_ vielleicht am besten, der beim Government Digital Service auch explizit verwendet wird. Gemeinsam ist auch, dass der Designprozess userbezogen und iterativ erfolgt, so dass er nur bedingt planbar ist. Content Strategen wirken in einem Design-Prozess mit, in dem sie agil eng mit UX-Fachleuten, Informationsdesignern und Codern zusammenarbeiten. Dem benutzerbezogenen Ansatz entspricht es, dass die Aufgaben nicht durch die Position in einer Hierarchie definiert werden, sondern flexibel durch die Rollen bei der Entwicklung eines Produkts. Dementsprechend spielen Hierarchien in diesen Organisationen nur eine relativ geringe Rolle, nicht aber die sorgfältige Organisation dieser agilen Arbeit. Nach den drei Besuchen haben wir bei [Mozilla](https://www.mozilla.org/en-US/contact/spaces/london/ "Contacts, Spaces and Communities — London — Mozilla") zwei sehr eindrucksvolle Präsentationen zu userbezogenem Design erhalten. [Padma Gillen](https://twitter.com/padmasaysblah?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor "Padma Gillen (@padmasaysblah) | Twitter") gab uns einen Überblick über agiles Arbeiten am Beispiel GDS. Agil bedeutet in diesem Zusammmenhang zweierlei: Einerseits eine Aufbau- und Ablauforganisation, die von den Notwendigkeiten einer schnellen und nur bedingt planbaren Entwicklung bestimmt ist. Andererseits ein Arbeiten, das sich an Nutzer-Stories orientiert. Gillen hat das Content Team des Government Digital Service lange geleitet. [Mel Hambarsoomian](https://www.linkedin.com/in/melaniehambarsoomian "Melanie Hambarsoomian | LinkedIn") stellte im Detail dar, wie das neue Content-Management-Systems des Telegraph entwickelt wurde und wird. Auch hier steht die analytische, userbezogene Arbeit im Vordergrund.
+
+## Move fast
+
+Mich hat in allen diesen Fällen vor allem die Konsequenz, die Entschlossenheit beeindruckt, mit der vorgegangen und experimentiert wird. Alle diese Firmen und Organisationen gehen bewusst und sehr schnell neue Wege, und wissen, dass sie dabei Forschungsarbeit leisten. Sie wenden nicht einfach Rezepte an, aber sie greifen so weit und so genau wie möglich auf Erfahrungen zurück, die andere gemacht haben, und sind auch deshalb für einen Austausch sehr offen. Die Mentalität, die wir kennengelernt haben, unterscheidet sich nicht von der Mentalität in ähnlichen Gruppen hier bei uns, nur dass hier in Österreich dieses Denken in großen Organisationen und erst recht in staatlichen Organisationen noch kaum angekommen ist. Wir bewegen uns hier als Digitalmenschen in einer ganz kleinen Minderheit, und müssen oft mühsam versuchen für etwas Verständnis zu erwecken, das in England immerhin schon Regierungspolitik ist, und das von der vielleicht weltweit erfolgreichsten Marke, nämlich Facebook, alltäglich und konsequent realisiert wird.
+
+## Was machen wir als Studiengang zwischen Graz und London?
+
+Ich frage mich, welche Rolle wir hier als Studiengang spielen können. Einerseits sind wir von einer Stadt wie London weit entfernt, und können nicht so tun, als würden wir hier genauso arbeiten. Andererseits sind aber genau diese Arbeitsweise und ihr Kontext unser Thema. Wir müssen einerseits analytisch genau an das anschließen, was wir in London kennengelernt haben, und wir müssen andererseits das Besondere der Situation dort verstehen, um es für andere Situationen übersetzbar zu machen. Ich glaube, dass es eine ganz gute Leitlinie wäre, zu überlegen, wie wir unter Bedingungen wie denen hier in Österreich argumentativ vorgehen können, um das, was wir in London kennengelernt haben, zu begründen und zu vermitteln.

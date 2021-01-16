@@ -1,0 +1,22 @@
+---
+title: "Das Ende des Mythos vom Influencer: Paul Adams' Buch \"Grouped\""
+date: "2012-03-01"
+categories: 
+  - "allgemein"
+tags: 
+  - "bucher"
+---
+
+Ich würde gerne länger über dieses Buch schreiben, aber ich schaffe heute nur einen kurzen Hinweis: In [Grouped: How small groups of friends are the key to influence on the social web](http://www.amazon.de/Grouped-groups-friends-influence-ebook/dp/B006GFZ1PW/ref=sr_1_2?ie=UTF8&qid=1330588750&sr=8-2 "Grouped: How small groups of friends are the key to influence on the social web (Voices That Matter) eBook: Paul Adams: Amazon.de: Kindle-Shop") gibt Paul Adams einen Überblick über sozialwissenschaftliche Forschungen, die erklären, wie soziale Netzwerke funktionieren. Adams' Buch ist eine populärwissenschaftliche Synthese sehr vieler Studien, und man wünscht sich die Zeit, um allen Hinweisen in den Anmerkungen nachgehen zu können.
+
+Ich habe schon vor einiger Zeit [über Paul Adams geschrieben](https://wittenbrink.net/lostandfound/paul-adams-und-die-ideen-hinter-google/ "Paul Adams und die Ideen hinter Google+ - Lost and Found"). Er gilt als einer der Köpfe hinter Google+, arbeitet inzwischen selbst aber bei Facebook.
+
+Adams geht es vor allem darum, dass die Beziehungen in sozialen Netzen nicht gleichförmig sind, sondern sich sowohl in ihrer Intensität (enge Freunde, weniger enge Freunde usw.) wie in ihren Inhalten (Familie, Kollegen, Schulfreune usw) qualitativ unterscheiden. Die _Gruppen_, die sich so ergeben, sind aber nicht voneinander abgeschlossen, sondern über ihre Mitglieder miteinander verbunden; sie beinflussen sich. Wenn man verstehen will, wie und warum sich Menschen beeinflussen, muss man die Struktur ihrer sozialen Netze kennen. Man könnte auch sagen: Menschen handeln nicht als Individuen oder als Massen, sondern als Teile von sozialen Netzen, wobei jeder Mensch zu verschiedenen solcher Netze gehört. In dieser Allgemeinheit wirken solche Aussagen banal. Das Funktionieren sozialer Netze im Konkreten ist aber alles andere als bekannt, und es ist den Teilnehmer auch keineswegs bewusst. So lassen sich große Mengen von Menschen am besten über kleine Gruppen enger Freunde beeinflussen, nicht über das breite Streuen von Botschaften. Den größten Einfluss auf unser Verhalten üben die Freunde von Freunden von Freunden aus.
+
+Die Forschungen, auf die sich Adams stützt, haben sozialwissenschaftliche Modelle abgelöst, die Gesellschaften als Aggregate oder Systeme von Individuen darstellen, die man vor allem statistisch erfassen kann. Adams fordert, daraus Konsequenzen für das Marketing zu ziehen und sich vor allem vom Mythos der _Influencer_ zu verabschieden, also von Individuen, die angeblich einen besonderen Einfluss auf eine große Zahl von Menschen haben. Die Individuen mit den meisten Verbindungen in Netzwerken üben nicht den größten Einfluss aus, und beeinflusst werden auch nicht Individuen sondern Gruppen bzw. Menschen, die miteinander vernetzt sind.
+
+Adams' Buch liegt die These zugrunde, dass heute das _Web der Menschen_ das _Web der Dokumente_ ablöst. Aber die Menschen beeinflussen sich über Inhalte, und aus Adams Konzepten ergeben sich vor allem Forderungen an wirkungsvolle Inhalte. Sie müssen kleine Gruppen ansprechen und sie müssen innerhalb dieser Gruppen gerne ausgetauscht werden, nur dann erreichen sie auch weitere, mit diesen kleinen Gruppen lose verbundene Netze.
+
+Man hat, wie ich oben erwähnt habe, Adams oft als Theoretiker hinter Google+ verstanden. Tatsächlich macht sein Ansatz die _Kreise_, also das auffälligste Feature dieses Dienstes, verständlich. Allerdings gab es sie bei dem dezentralen Netzwerk [Dispora](https://joindiaspora.com/ "DIASPORA* ALPHA") lange vorher. Mir kommt es so vor, als hätten sich die Entwickler von [Path](https://path.com/ "Path") sehr genau an die Konzepte von Adams gehalten. Die maximale Zahl der Freunde ist 150 (die [Dunbar-Zahl](http://en.wikipedia.org/wiki/Dunbar's_number "Dunbar's number - Wikipedia, the free encyclopedia"), die die maximale Anzahl stabiler Beziehungen eines Menschen angibt). Path ist auf Austausch mit wenigen Freunden ausgelegt, und die Kommerzialisierung wird wohl auch über Empfehlungsmarketing in kleinen Kreisen erfolgen.
+
+Ich habe hier nur einige der vielen Themen und Ideen in _Grouped_ angeschnitten. Ich kann das Buch nur empfehlen. Man muss es sicher mehr als nur einmal lesen, um Konsequenzen daraus zu ziehen.

@@ -1,0 +1,23 @@
+---
+title: "\"Lose Kopplung\" und der Arbeitsplatz der Zukunft"
+date: "2011-08-11"
+categories: 
+  - "allgemein"
+tags: 
+  - "journal"
+---
+
+Vor ein paar Tagen haben mich [Alexander Stocker](http://www.alexanderstocker.at/ "Alexander Stockers Weblog zu Web 2.0 und Unternehmen") und [Andrea Denger](http://www.mendeley.com/profiles/andrea-denger1/ "Andrea Denger - AreaA, Virtual Vehicle | Mendeley") bei [Joanneum Research](http://www.joanneum.at/de/jr.html "JOANNEUM RESEARCH") zum Arbeitsplatz der Zukunft befragt.
+
+Ich fühle mich bei diesem Thema nicht als Fachmann. Ich habe mich vorher gefragt, was ich dazu über Binsenweisheiten hinaus sagen könnte. Als ich dann auf der Suche nach meinen Gesprächspartnern in die engen Büros des steirischen Forschungsinstituts geschaut habe, war ich mir nur sicher, dass der Arbeitsplatz der Zukunft sicher nicht so aussehen wird: Schreibtisch mit Computer, bürokratisches Environment, feste Dienstzeiten. Aber wie dann?
+
+Ich habe mich dann bei meinen Antworten daran orientiert, [wie ich mir den Journalismus in der absehbaren Zukunft vorstelle](http://heinz.typepad.com/lostandfound/2011/07/journalismus-als-soziale-technologie.html "Journalismus als soziale Technologie - Lost and Found"). Ich glaube, dass die Entkoppelung von Inhalten/Formaten, Distribution und Kontrolle/Organisation schon heute für das _Nachrichtenuniversum_ im Web charakteristisch ist. Alle drei entwickeln sich, stark technikgetrieben, unabhängig weiter, es gibt im Web nicht mehr den _Verlag_, der inhaltliche Formate, Distribution und die Redaktionen kontrolliert. Inhalte liegen in immer neuen Formen verlinkter Daten vor, Suchmaschinen und Feeds sorgen für die Distribution, über soziale Netzwerke wird die Produktion organisiert und die Information gefiltert. Vielleicht kann man dieses Muster auf Tätigkeiten außerhalb des Journalismus übertragen. Ich möchte das auch hier versuchsweise formulieren und freue mich über Kommentare, auch und gerade kritische.
+
+1. Bei fast jeder Arbeit werden schon bald _verlinkte Daten_ eines der wichtigsten Ergebnisse sein. Egal ob man Lehrer, Koch oder Einzelhändler ist, man wird seine Arbeit laufend und oft automatisch durch verknüpfte und verlinkbare, verarbeitbare Informationen dokumentieren und die Arbeitsprozesse dadurch intelligenter machen. Ob das die Rezepte eines Kochs sind, über die er mir seinen Kunden kommunizieren kann, die Portfolios von Lehrenden und Lernenden oder Informationen über Kundenwünsche und mögliche Produkte: Die Qualität von Arbeitsprozessen wird an die Qualität der Daten gebunden sein, die dabei entstehen und ausgetauscht werden.
+    
+2. Man wird die Informationen, die man für seine Arbeit braucht, relativ unabhängig von Firmen oder Organisationen erhalten, sie im Web suchen oder als Stream abonnieren, zum Beispiel über Twitter oder als RSS-Feed. Informationsmanagement wird zu einem immer wichtigeren Teil fast aller Arbeitsprozesse werden, und die Qualität von Organisationen, etwa Firmen, wird davon abhängen, wie effizient sie Informationen für ihre Angehörigen organisieren. Wenn sie das mit so archaischen Methoden tun, wie heute viele Firmen, deren Hierarchien auf Geheimhaltung und Informationsvorsprüngen beruhen, werden sie nicht überleben.
+    
+3. Arbeiten werden viel mehr als heute in offenen Netzwerken verteilt, also nicht einfach in einer starren Organisation zugeteilt werden. Je weniger Routinen eine Rolle spielen, um so mehr wird man für jeden neuen Job Leute und Stukturen suchen, die ihn adhoc am besten erledigen können. Es könnten—innerhalb von Unternehmen und über Unternehmen hinaus—so etwas wie Jobbörsen entstehen, in denen die anstehenden Aufgabe verteilt werden, an Interessierte, an Leute die sich qualifiziert haben, aber nicht einfach aufgrund von Arbeitsplatzbeschreibungen und Positionen in einer Hierarchie.
+    
+
+Wenn man das zusammennimmt, kann man vielleicht von _loose coupling_, "loser Kopplung", als Organisationsprinzip sprechen, im Gegensatz zur festen Verkoppelung und den unflexibel definierten Prozessen, die die Arbeitsrealität heute vielfach ausmachen. Das bedeutet nicht, dass feste Beziehungen und definierte Prozesse unwichtig werden, aber sie werden vielleicht eher die Rolle von Elementen oder Bausteinen, besser: von _Molekülen_ haben, die man dann immer neu kombiniert. Begünstigt wird das _lose coupling_ durch das Web, das immer mehr zur wichtigsten Informationsumwelt wird, auch für Arbeitsprozesse. Das Web ist erfolgreich, weil es nach dem Prinzip [Small Pieces Loosely Joined](http://en.wikipedia.org/wiki/Small_Pieces_Loosely_Joined "Small Pieces Loosely Joined - Wikipedia, the free encyclopedia") funktioniert.

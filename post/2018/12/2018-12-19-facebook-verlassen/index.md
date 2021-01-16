@@ -1,0 +1,20 @@
+---
+title: "Facebook verlassen?"
+date: "2018-12-19"
+categories: 
+  - "gesellschaft-und-oeffentlichkeiten"
+tags: 
+  - "facebook"
+  - "postwachstum"
+---
+
+[As Facebook Raised a Privacy Wall, It Carved an Opening for Tech Giants - The New York Times](https://www.nytimes.com/2018/12/18/technology/facebook-privacy.html)
+
+Ich überlege zum ersten Mal ernsthaft, ob ich ganz aus Facebook aussteigen soll. Dieser Artikel zeigt, dass der Cambridge Analytica-Skandal nur die Spitze eines Eisbergs ist. Die Auswertung von User-Daten bestimmt die DNA von Facebook, und sie ist grundsätzlich intransparent. Die User sollen Inhalte konsumieren und Dinge kaufen, auf die sie selbst nicht gestoßen wären, und was sie finden, das bestimmen die Anzeigenkunden.
+
+Ich habe das bisher auch gewusst, aber in Kauf genommen—als Preis für die Kommunikationsmöglichkeiten, die Facebook bietet. Ich benutze allerdings schon länger Facebook nur noch auf dem Computer, und [nur in einem Quarantäne-Tag des Firefox](https://wittenbrink.net/lostandfound/facebook-nur-noch-im-container/). Ich sehe zwei Gründe dafür, noch einen Schritt weiter zu gehen:
+
+1. ⁽Stichworte _Postwachstum_, _nogrowth_, _décroissance_): Ich sehe wirtschaftliches Wachstum in den hochindustrialisierten Ländern inzwischen grundsätzlich als gefährlich an. Ich habe in [anderen](https://wittenbrink.net/lostandfound/digitale-decroissance-statt-digitalisierung/) [Posts](https://wittenbrink.net/lostandfound/klimakatastrophe-und-content-strategie/) schon erwähnt, warum: wir kommen aus der aktuellen ökologischen Krise, oder besser: aus den aktuellen ökologischen Krisen nur hinaus, wenn wir auf Wachstum, also auf mehr Ressourcenverbrauch generell verzichten und umgekehrt alles dafür tun, weniger Ressourcen zu verbrauchen. Facebook ist einer der effizientesten Bestandteile einer Maschinerie, die immer mehr Konsumgüter unter die Leute bringt. Es eröffnet derzeit das Maximum an Möglichkeiten, Leuten Dinge anzubieten, die sie kaum brauchen, und die, selbst wenn sie gebraucht werden, die Lebenschancen auf dem Planeten verringern. Facebook selbst, das zeigt dieser Artikel, ist darauf optimiert, so schnell wie möglich zu wachsen, und bringt auch andere Firmen dazu, so schnell wie möglich zu wachsen: so alle die Konzerne—in diesem Artikel sind viele erwähnt—mit denen Facebook Daten geteilt hat. Wenn man sich gegen das Wirtschaftswachstum wendet, dann muss man gegen Werbe- und Marketing-Praktiken angehen, wie sie Facebook derzeit am erfolgreichsten umsetzt.
+2. (Stichwort: _Diversity_): Ich habe mich bisher dazu entschieden auf Facebook zu bleiben, weil man über Facebook einfacher mit mehr Leuten in Kontakt steht als mit unabhängigen Plattformen wie mit meinem Blog oder meinem [Microblog](http://heinz.micro.blog/). Jetzt frage ich mich, ob es nicht ein falsches Ziel ist, in Echtzeit möglichst viel Publikum zu erreichen. Ein viel höherer Wert für mich ist Verschiedenheit, _diversity_, auch und gerade im Netz. Wenn aber eines Facebook charakterisiert, dann ist es die Zerstörung von Diversity und eines in sich vielfältigen Publishing-Ökosystems. Je mehr Leute außerhalb von Facebook publizieren und dazu Plattformen nutzen, die prinzipiell nicht zentralisiert werden können, umso schwieriger macht man es Facebook, seine Praktiken fortzusetzen und damit, wie ich glaube, zur Zerstörung des Netzes beizutragen. Ich alleine erreiche vielleicht weniger Menschen, wenn ich nicht über Facebook kommuniziere, aber ein Ökosystem außerhalb von Facebook erreicht mehr Menschen, wenn sich mehr in ihm engagieren.
+
+Wenn man den sehr gut dokumentierten Artikel in der New York Times vor dem Hintergrund der nogrowth-Option liest, dann ist es leicht, den systemischen Charakter der Anti-Privacy-Politik von Facebook zu erkennen. Sie ist nicht ein Add-on, ohne das Facebook auch funktionieren könnte, sondern sie ist der Grund dafür, das Facebook besteht. Ein solches Werkzeug zu verwenden kann die Ziele, die man verfolgt, mehr diskreditieren als dazu beizutragen, sie zu erreichen.
